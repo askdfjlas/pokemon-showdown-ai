@@ -57,8 +57,8 @@ class Pokemon:
         self.name = s
 
     def append_move(self, move):
-        # If the move hasn't been used before and there's room for more
-        if len(self.moves) < 4 and move not in self.moves:
+        # If the move hasn't been used before
+        if move not in self.moves:
             self.moves.append(move)
 
     def set_ability(self, s):
