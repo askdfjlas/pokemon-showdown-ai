@@ -1,0 +1,724 @@
+10,000,000 Volt Thunderbolt	Electric	Special	195	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Absorb	Grass	Special	20	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Accelerock	Rock	Physical	40	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Acid	Poison	Special	40	100	30	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Acid Armor	Poison	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Acid Downpour	Poison	Special	0	0	1	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Acid Spray	Poison	Special	40	100	20	100	N	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N
+Acrobatics	Flying	Physical	55	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Acupressure	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aerial Ace	Flying	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Aeroblast	Flying	Special	100	95	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+After You	Normal	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Agility	Psychic	Status	0	0	30	0	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Air Cutter	Flying	Special	60	95	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Air Slash	Flying	Special	75	95	20	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+All-Out Pummeling	Fighting	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Ally Switch	Psychic	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Amnesia	Psychic	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N
+Anchor Shot	Steel	Physical	80	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Ancient Power	Rock	Special	60	100	5	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aqua Jet	Water	Physical	40	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Aqua Ring	Water	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aqua Tail	Water	Physical	90	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Arm Thrust	Fighting	Physical	15	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aromatherapy	Grass	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Aromatic Mist	Fairy	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Assist	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Assurance	Dark	Physical	60	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Astonish	Ghost	Physical	30	100	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Attack Order	Bug	Physical	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Attract	Normal	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Aura Sphere	Fighting	Special	80	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Aurora Beam	Ice	Special	65	100	20	10	N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N
+Aurora Veil	Ice	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Autotomize	Steel	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Avalanche	Ice	Physical	60	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Baby-Doll Eyes	Fairy	Status	0	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Baddy Bad	Dark	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Baneful Bunker	Poison	Status	0	0	10	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Barrage	Normal	Physical	15	85	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Barrier	Psychic	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Baton Pass	Normal	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Beak Blast	Flying	Physical	100	100	15	0	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Beat Up	Dark	Physical	0	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Belch	Poison	Special	120	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Belly Drum	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Bestow	Normal	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bide	Normal	Physical	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bind	Normal	Physical	15	85	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bite	Dark	Physical	60	100	25	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Black Hole Eclipse	Dark	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Blast Burn	Fire	Special	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Blaze Kick	Fire	Physical	85	90	10	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Blizzard	Ice	Special	110	70	5	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Block	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bloom Doom	Grass	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Blue Flare	Fire	Special	130	85	5	20	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Body Slam	Normal	Physical	85	100	15	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bolt Strike	Electric	Physical	130	85	5	20	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bone Club	Ground	Physical	65	85	20	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bone Rush	Ground	Physical	25	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bonemerang	Ground	Physical	50	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Boomburst	Normal	Special	140	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bounce	Flying	Physical	85	85	5	30	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Bouncy Bubble	Water	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Brave Bird	Flying	Physical	120	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Breakneck Blitz	Normal	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Brick Break	Fighting	Physical	75	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Brine	Water	Special	65	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Brutal Swing	Dark	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bubble	Water	Special	40	100	30	10	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N
+Bubble Beam	Water	Special	65	100	20	10	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N
+Bug Bite	Bug	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bug Buzz	Bug	Special	90	100	10	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Bulk Up	Fighting	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	N	N	Y	N	N	N	N	N	N
+Bulldoze	Ground	Physical	60	100	20	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Bullet Punch	Steel	Physical	40	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Bullet Seed	Grass	Physical	25	100	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Burn Up	Fire	Special	130	100	5	0	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Buzzy Buzz	Electric	Special	90	100	15	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Calm Mind	Psychic	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	Y	Y	N	N	N	N	N
+Camouflage	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Captivate	Normal	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Catastropika	Electric	Physical	210	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Celebrate	Normal	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Charge	Electric	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N
+Charge Beam	Electric	Special	50	90	10	70	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Charm	Fairy	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Chatter	Flying	Special	65	100	20	100	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Chip Away	Normal	Physical	70	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Circle Throw	Fighting	Physical	60	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Clamp	Water	Physical	35	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Clanging Scales	Dragon	Special	110	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Clangorous Soulblaze	Dragon	Special	185	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Clear Smog	Poison	Special	50	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Close Combat	Fighting	Physical	120	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Coil	Poison	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	N	N	Y	N	N	N	N	N	N
+Comet Punch	Normal	Physical	18	85	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Confide	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Confuse Ray	Ghost	Status	0	100	10	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Confusion	Psychic	Special	50	100	25	10	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Constrict	Normal	Physical	10	100	35	10	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N
+Continental Crush	Rock	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Conversion	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Conversion 2	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Copycat	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Core Enforcer	Dragon	Special	100	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Corkscrew Crash	Steel	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Cosmic Power	Psychic	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N
+Cotton Guard	Grass	Status	0	0	10	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Cotton Spore	Grass	Status	0	100	40	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Counter	Fighting	Physical	0	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Covet	Normal	Physical	60	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Crabhammer	Water	Physical	100	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Crafty Shield	Fairy	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Cross Chop	Fighting	Physical	100	80	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Cross Poison	Poison	Physical	70	100	20	10	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Crunch	Dark	Physical	80	100	15	20	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N
+Crush Claw	Normal	Physical	75	95	10	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N
+Crush Grip	Normal	Physical	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Curse	Ghost	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N
+Cut	Normal	Physical	50	95	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dark Pulse	Dark	Special	80	100	15	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dark Void	Dark	Status	0	50	10	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Darkest Lariat	Dark	Physical	85	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dazzling Gleam	Fairy	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Defend Order	Bug	Status	0	0	10	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N
+Defense Curl	Normal	Status	0	0	40	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Defog	Flying	Status	0	0	15	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N
+Destiny Bond	Ghost	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Detect	Fighting	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Devastating Drake	Dragon	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Diamond Storm	Rock	Physical	100	95	5	50	N	N	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Dig	Ground	Physical	80	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Disable	Normal	Status	0	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Disarming Voice	Fairy	Special	40	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Discharge	Electric	Special	80	100	15	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dive	Water	Physical	80	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Dizzy Punch	Normal	Physical	70	100	10	20	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Doom Desire	Steel	Special	140	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Hit	Normal	Physical	35	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Iron Bash	Steel	Physical	60	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Kick	Fighting	Physical	30	100	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Slap	Normal	Physical	15	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Team	Normal	Status	0	0	15	0	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	Y	N	N	N	N
+Double-Edge	Normal	Physical	120	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Draco Meteor	Dragon	Special	130	90	5	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Dragon Ascent	Flying	Physical	120	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Dragon Breath	Dragon	Special	60	100	20	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Claw	Dragon	Physical	80	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Dance	Dragon	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	N	N	N	N	N	N	N
+Dragon Hammer	Dragon	Physical	90	100	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Dragon Pulse	Dragon	Special	85	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Rage	Dragon	Special	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Rush	Dragon	Physical	100	75	10	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Tail	Dragon	Physical	60	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Drain Punch	Fighting	Physical	75	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Draining Kiss	Fairy	Special	50	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Dream Eater	Psychic	Special	100	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Drill Peck	Flying	Physical	80	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Drill Run	Ground	Physical	80	95	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dual Chop	Dragon	Physical	40	90	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dynamic Punch	Fighting	Physical	100	50	5	100	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Earth Power	Ground	Special	90	100	10	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Earthquake	Ground	Physical	100	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Echoed Voice	Normal	Special	40	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Eerie Impulse	Electric	Status	0	100	15	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Egg Bomb	Normal	Physical	100	75	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Electric Terrain	Electric	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Electrify	Electric	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Electro Ball	Electric	Special	0	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Electroweb	Electric	Special	55	95	15	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Embargo	Dark	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ember	Fire	Special	40	100	25	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Encore	Normal	Status	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Endeavor	Normal	Physical	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Endure	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Energy Ball	Grass	Special	90	100	10	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Entrainment	Normal	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Eruption	Fire	Special	150	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Explosion	Normal	Physical	250	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Extrasensory	Psychic	Special	80	100	20	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Extreme Evoboost	Normal	Status	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Extreme Speed	Normal	Physical	80	100	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Facade	Normal	Physical	70	100	20	0	Y	N	Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fairy Lock	Fairy	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fairy Wind	Fairy	Special	40	100	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fake Out	Normal	Physical	40	100	10	100	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Fake Tears	Dark	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N
+False Swipe	Normal	Physical	40	100	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Feather Dance	Flying	Status	0	100	15	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Feint	Normal	Physical	30	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Feint Attack	Dark	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Fell Stinger	Bug	Physical	50	100	25	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Fiery Dance	Fire	Special	80	100	10	50	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Final Gambit	Fighting	Special	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Blast	Fire	Special	110	85	5	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Fang	Fire	Physical	65	95	15	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Lash	Fire	Physical	80	100	15	0	N	N	N	Y	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Fire Pledge	Fire	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Punch	Fire	Physical	75	100	15	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Spin	Fire	Special	35	85	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+First Impression	Bug	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fissure	Ground	Physical	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flail	Normal	Physical	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flame Burst	Fire	Special	70	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flame Charge	Fire	Physical	50	100	20	100	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Flame Wheel	Fire	Physical	60	100	25	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flamethrower	Fire	Special	90	100	15	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flare Blitz	Fire	Physical	120	100	15	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flash	Normal	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Flash Cannon	Steel	Special	80	100	10	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Flatter	Dark	Status	0	100	15	0	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Fleur Cannon	Fairy	Special	130	90	5	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Fling	Dark	Physical	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Floaty Fall	Flying	Physical	90	95	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Floral Healing	Fairy	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flower Shield	Fairy	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Fly	Flying	Physical	90	95	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Flying Press	Fighting	Physical	100	95	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Focus Blast	Fighting	Special	120	70	5	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Focus Energy	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Focus Punch	Fighting	Physical	150	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Follow Me	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Force Palm	Fighting	Physical	60	100	10	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Foresight	Normal	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N
+Forest's Curse	Grass	Status	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Foul Play	Dark	Physical	95	100	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Freeze Shock	Ice	Physical	140	90	5	30	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Freeze-Dry	Ice	Special	70	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Freezy Frost	Ice	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Frenzy Plant	Grass	Special	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Frost Breath	Ice	Special	60	90	10	100	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Frustration	Normal	Physical	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fury Attack	Normal	Physical	15	85	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fury Cutter	Bug	Physical	40	95	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fury Swipes	Normal	Physical	18	80	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fusion Bolt	Electric	Physical	100	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fusion Flare	Fire	Special	100	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Future Sight	Psychic	Special	120	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gastro Acid	Poison	Status	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gear Grind	Steel	Physical	50	85	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gear Up	Steel	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Genesis Supernova	Psychic	Special	185	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Geomancy	Fairy	Status	0	0	10	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	Y	N	N	N	N	N	N
+Giga Drain	Grass	Special	75	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Giga Impact	Normal	Physical	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gigavolt Havoc	Electric	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Glaciate	Ice	Special	65	95	10	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Glare	Normal	Status	0	100	30	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Glitzy Glow	Psychic	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Grass Knot	Grass	Special	0	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Grass Pledge	Grass	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Grass Whistle	Grass	Status	0	55	15	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Grassy Terrain	Grass	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gravity	Psychic	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Growl	Normal	Status	0	100	40	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Growth	Normal	Status	0	0	40	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N
+Grudge	Ghost	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Guard Split	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Guard Swap	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Guardian of Alola	Fairy	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Guillotine	Normal	Physical	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gunk Shot	Poison	Physical	120	80	5	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gust	Flying	Special	40	100	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gyro Ball	Steel	Physical	0	100	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Hail	Ice	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hammer Arm	Fighting	Physical	100	90	10	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Happy Hour	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Harden	Normal	Status	0	0	30	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Haze	Ice	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Head Charge	Normal	Physical	120	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Head Smash	Rock	Physical	150	80	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Headbutt	Normal	Physical	70	100	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heal Bell	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Heal Block	Psychic	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heal Order	Bug	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Heal Pulse	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Healing Wish	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Heart Stamp	Psychic	Physical	60	100	25	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heart Swap	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heat Crash	Fire	Physical	0	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Heat Wave	Fire	Special	95	90	10	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heavy Slam	Steel	Physical	0	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Helping Hand	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hex	Ghost	Special	65	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hidden Power	Normal	Special	60	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+High Horsepower	Ground	Physical	95	95	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+High Jump Kick	Fighting	Physical	130	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hold Back	Normal	Physical	40	100	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hold Hands	Normal	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hone Claws	Dark	Status	0	0	15	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Horn Attack	Normal	Physical	65	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Horn Drill	Normal	Physical	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Horn Leech	Grass	Physical	75	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Howl	Normal	Status	0	0	40	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Hurricane	Flying	Special	110	70	10	30	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hydro Cannon	Water	Special	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hydro Pump	Water	Special	110	80	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hydro Vortex	Water	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Hyper Beam	Normal	Special	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hyper Fang	Normal	Physical	80	90	15	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hyper Voice	Normal	Special	90	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hyperspace Fury	Dark	Physical	100	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Hyperspace Hole	Psychic	Special	80	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hypnosis	Psychic	Status	0	60	20	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Ball	Ice	Physical	30	90	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Beam	Ice	Special	90	100	10	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Burn	Ice	Special	140	90	5	30	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Ice Fang	Ice	Physical	65	95	15	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Hammer	Ice	Physical	100	90	10	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Ice Punch	Ice	Physical	75	100	15	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Shard	Ice	Physical	40	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Icicle Crash	Ice	Physical	85	90	10	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Icicle Spear	Ice	Physical	25	100	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Icy Wind	Ice	Special	55	95	15	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Imprison	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Incinerate	Fire	Special	60	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Inferno	Fire	Special	100	50	5	100	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Inferno Overdrive	Fire	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Infestation	Bug	Special	20	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ingrain	Grass	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Instruct	Psychic	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ion Deluge	Electric	Status	0	0	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Iron Defense	Steel	Status	0	0	15	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Iron Head	Steel	Physical	80	100	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Iron Tail	Steel	Physical	100	75	15	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N
+Judgment	Normal	Special	100	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Jump Kick	Fighting	Physical	100	95	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Karate Chop	Fighting	Physical	50	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Kinesis	Psychic	Status	0	80	15	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+King's Shield	Steel	Status	0	0	10	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Knock Off	Dark	Physical	65	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Land's Wrath	Ground	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Laser Focus	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Last Resort	Normal	Physical	140	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Lava Plume	Fire	Special	80	100	15	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leaf Blade	Grass	Physical	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leaf Storm	Grass	Special	130	90	5	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Leaf Tornado	Grass	Special	65	90	10	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Leafage	Grass	Physical	40	100	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leech Life	Bug	Physical	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Leech Seed	Grass	Status	0	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leer	Normal	Status	0	100	30	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N
+Let's Snuggle Forever	Fairy	Physical	190	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Lick	Ghost	Physical	30	100	30	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Light of Ruin	Fairy	Special	140	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Light Screen	Psychic	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Light That Burns the Sky	Psychic	Special	200	0	1	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	Y
+Liquidation	Water	Physical	85	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Lock-On	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Lovely Kiss	Normal	Status	0	75	10	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Low Kick	Fighting	Physical	0	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Low Sweep	Fighting	Physical	65	100	20	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Lucky Chant	Normal	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Lunar Dance	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Lunge	Bug	Physical	80	100	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Luster Purge	Psychic	Special	70	100	5	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Mach Punch	Fighting	Physical	40	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Magic Coat	Psychic	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Magic Room	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Magical Leaf	Grass	Special	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Magma Storm	Fire	Special	100	75	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Magnet Bomb	Steel	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Magnet Rise	Electric	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Magnetic Flux	Electric	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Magnitude	Ground	Physical	0	100	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Malicious Moonsault	Dark	Physical	180	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Mat Block	Fighting	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Me First	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Mean Look	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Meditate	Psychic	Status	0	0	40	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Mega Drain	Grass	Special	40	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Mega Kick	Normal	Physical	120	75	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mega Punch	Normal	Physical	80	85	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Megahorn	Bug	Physical	120	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Memento	Dark	Status	0	100	10	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Menacing Moonraze Maelstrom	Ghost	Special	200	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Metal Burst	Steel	Physical	0	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Metal Claw	Steel	Physical	50	95	35	10	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Metal Sound	Steel	Status	0	85	40	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N
+Meteor Mash	Steel	Physical	90	90	10	20	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Metronome	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Milk Drink	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Mimic	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mind Blown	Fire	Special	150	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mind Reader	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Minimize	Normal	Status	0	0	10	0	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	Y	N	N	N	N
+Miracle Eye	Psychic	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Mirror Coat	Psychic	Special	0	100	20	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Mirror Move	Flying	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mirror Shot	Steel	Special	65	85	10	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Mist	Ice	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mist Ball	Psychic	Special	70	100	5	50	N	N	N	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N	N	N
+Misty Terrain	Fairy	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Moonblast	Fairy	Special	95	100	15	30	N	N	N	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N	N	N
+Moongeist Beam	Ghost	Special	100	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Moonlight	Fairy	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Morning Sun	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Mud Bomb	Ground	Special	65	85	10	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Mud Shot	Ground	Special	55	95	15	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Mud Sport	Ground	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mud-Slap	Ground	Special	20	100	10	100	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Muddy Water	Water	Special	90	85	10	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Multi-Attack	Normal	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mystical Fire	Fire	Special	75	100	10	100	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Nasty Plot	Dark	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N
+Natural Gift	Normal	Physical	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Nature Power	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Nature's Madness	Fairy	Special	0	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Needle Arm	Grass	Physical	60	100	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Never-Ending Nightmare	Ghost	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Night Daze	Dark	Special	85	95	10	40	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Night Shade	Ghost	Special	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Night Slash	Dark	Physical	70	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Nightmare	Ghost	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Noble Roar	Normal	Status	0	100	30	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Nuzzle	Electric	Physical	20	100	20	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Oblivion Wing	Flying	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Oceanic Operetta	Water	Special	195	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Octazooka	Water	Special	65	85	10	50	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Odor Sleuth	Normal	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N
+Ominous Wind	Ghost	Special	60	100	5	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Origin Pulse	Water	Special	110	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Outrage	Dragon	Physical	120	100	10	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Overheat	Fire	Special	130	90	5	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Pain Split	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Parabolic Charge	Electric	Special	65	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Parting Shot	Dark	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Pay Day	Normal	Physical	40	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Payback	Dark	Physical	50	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Peck	Flying	Physical	35	100	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Perish Song	Normal	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Petal Blizzard	Grass	Physical	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Petal Dance	Grass	Special	120	100	10	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Phantom Force	Ghost	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Photon Geyser	Psychic	Special	100	100	5	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Pika Papow	Electric	Special	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Pin Missile	Bug	Physical	25	95	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Plasma Fists	Electric	Physical	100	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Play Nice	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Play Rough	Fairy	Physical	90	90	10	10	N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N
+Pluck	Flying	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Fang	Poison	Physical	50	100	15	50	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Gas	Poison	Status	0	90	40	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Jab	Poison	Physical	80	100	20	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Powder	Poison	Status	0	75	35	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Sting	Poison	Physical	15	100	35	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Tail	Poison	Physical	50	100	25	10	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Pollen Puff	Bug	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Pound	Normal	Physical	40	100	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Powder	Bug	Status	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Powder Snow	Ice	Special	40	100	25	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Power Gem	Rock	Special	80	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Power Split	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Power Swap	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Power Trick	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N
+Power Trip	Dark	Physical	20	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Power Whip	Grass	Physical	120	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Power-Up Punch	Fighting	Physical	40	100	10	100	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Precipice Blades	Ground	Physical	120	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Present	Normal	Physical	0	90	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Prismatic Laser	Psychic	Special	160	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Protect	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psybeam	Psychic	Special	65	100	20	10	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psych Up	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psychic	Psychic	Special	90	100	10	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Psychic Fangs	Psychic	Physical	85	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psychic Terrain	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psycho Boost	Psychic	Special	140	90	5	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Psycho Cut	Psychic	Physical	70	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psycho Shift	Psychic	Status	0	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psyshock	Psychic	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Psystrike	Psychic	Special	100	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Psywave	Psychic	Special	0	80	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Pulverizing Pancake	Normal	Physical	210	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Punishment	Dark	Physical	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Purify	Poison	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Pursuit	Dark	Physical	40	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Quash	Dark	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Quick Attack	Normal	Physical	40	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Quick Guard	Fighting	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Quiver Dance	Bug	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	Y	Y	Y	Y	N	N	N	N	N
+Rage	Normal	Physical	20	100	20	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Rage Powder	Bug	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Rain Dance	Water	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rapid Spin	Normal	Physical	20	100	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Razor Leaf	Grass	Physical	55	95	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Razor Shell	Water	Physical	75	95	10	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N
+Razor Wind	Normal	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Recover	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Recycle	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Reflect	Psychic	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Reflect Type	Normal	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Refresh	Normal	Status	0	0	20	0	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Relic Song	Normal	Special	75	100	10	10	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rest	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Retaliate	Normal	Physical	70	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Return	Normal	Physical	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Revelation Dance	Normal	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Revenge	Fighting	Physical	60	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Reversal	Fighting	Physical	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Roar	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Roar of Time	Dragon	Special	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Blast	Rock	Physical	25	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Climb	Normal	Physical	90	85	20	20	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Polish	Rock	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Rock Slide	Rock	Physical	75	90	10	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Smash	Fighting	Physical	40	100	15	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N
+Rock Throw	Rock	Physical	50	90	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Tomb	Rock	Physical	60	95	15	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Rock Wrecker	Rock	Physical	150	90	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Role Play	Psychic	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rolling Kick	Fighting	Physical	60	85	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rollout	Rock	Physical	30	90	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Roost	Flying	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Rototiller	Ground	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N
+Round	Normal	Special	60	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sacred Fire	Fire	Physical	100	95	5	50	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sacred Sword	Fighting	Physical	90	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Safeguard	Normal	Status	0	0	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sand Attack	Ground	Status	0	100	15	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Sand Tomb	Ground	Physical	35	85	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sandstorm	Rock	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sappy Seed	Grass	Physical	90	100	15	100	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Savage Spin-Out	Bug	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Scald	Water	Special	80	100	15	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Scary Face	Normal	Status	0	100	10	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Scratch	Normal	Physical	40	100	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Screech	Normal	Status	0	85	40	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N
+Searing Shot	Fire	Special	100	100	5	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Searing Sunraze Smash	Steel	Physical	200	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Secret Power	Normal	Physical	70	100	20	30	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Secret Sword	Fighting	Special	85	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Seed Bomb	Grass	Physical	80	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Seed Flare	Grass	Special	120	85	5	40	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Seismic Toss	Fighting	Physical	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Self-Destruct	Normal	Physical	200	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shadow Ball	Ghost	Special	80	100	15	20	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N
+Shadow Bone	Ghost	Physical	85	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N
+Shadow Claw	Ghost	Physical	70	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shadow Force	Ghost	Physical	120	100	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Shadow Punch	Ghost	Physical	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Shadow Sneak	Ghost	Physical	40	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Sharpen	Normal	Status	0	0	30	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Shattered Psyche	Psychic	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Sheer Cold	Ice	Special	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shell Smash	Normal	Status	0	0	15	0	N	N	N	N	N	N	Y	N	N	Y	Y	Y	Y	Y	N	N	N	N	N
+Shell Trap	Fire	Special	150	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shift Gear	Steel	Status	0	0	10	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	N	N	N	N	N	N	N
+Shock Wave	Electric	Special	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Shore Up	Ground	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Signal Beam	Bug	Special	75	100	15	10	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Silver Wind	Bug	Special	60	100	5	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Simple Beam	Normal	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sing	Normal	Status	0	55	15	100	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sinister Arrow Raid	Ghost	Physical	180	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Sizzly Slide	Fire	Physical	90	100	15	0	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sketch	Normal	Status	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Skill Swap	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Skull Bash	Normal	Physical	130	100	10	100	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N
+Sky Attack	Flying	Physical	140	90	5	30	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Sky Drop	Flying	Physical	60	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sky Uppercut	Fighting	Physical	85	90	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Slack Off	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Slam	Normal	Physical	80	75	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Slash	Normal	Physical	70	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sleep Powder	Grass	Status	0	75	15	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sleep Talk	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sludge	Poison	Special	65	100	20	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sludge Bomb	Poison	Special	90	100	10	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sludge Wave	Poison	Special	95	100	10	10	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Smack Down	Rock	Physical	50	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Smart Strike	Steel	Physical	70	0	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Smelling Salts	Normal	Physical	70	100	10	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Smog	Poison	Special	30	70	20	40	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Smokescreen	Normal	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Snarl	Dark	Special	55	95	15	100	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Snatch	Dark	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Snore	Normal	Special	50	100	15	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Soak	Water	Status	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Soft-Boiled	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Solar Beam	Grass	Special	120	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Solar Blade	Grass	Physical	125	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Sonic Boom	Normal	Special	0	90	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Soul-Stealing 7-Star Strike	Ghost	Physical	195	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Spacial Rend	Dragon	Special	100	95	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spark	Electric	Physical	65	100	20	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sparkling Aria	Water	Special	90	100	10	0	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Sparkly Swirl	Fairy	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Spectral Thief	Ghost	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Speed Swap	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Spider Web	Bug	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spike Cannon	Normal	Physical	20	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spikes	Ground	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spiky Shield	Grass	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spirit Shackle	Ghost	Physical	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spit Up	Normal	Special	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spite	Ghost	Status	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Splash	Normal	Status	0	0	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Splintered Stormshards	Rock	Physical	190	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Splishy Splash	Water	Special	90	100	15	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spore	Grass	Status	0	100	15	100	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spotlight	Normal	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Stealth Rock	Rock	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Steam Eruption	Water	Special	110	95	5	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Steamroller	Bug	Physical	65	100	20	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Steel Wing	Steel	Physical	70	90	25	10	N	N	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N
+Sticky Web	Bug	Status	0	0	20	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Stockpile	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Stoked Sparksurfer	Electric	Special	175	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Stomp	Normal	Physical	65	100	20	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Stomping Tantrum	Ground	Physical	75	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Stone Edge	Rock	Physical	100	80	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Stored Power	Psychic	Special	20	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Storm Throw	Fighting	Physical	60	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Strength	Normal	Physical	80	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Strength Sap	Grass	Status	0	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+String Shot	Bug	Status	0	95	40	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Struggle	Normal	Physical	50	100	—	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Struggle Bug	Bug	Special	50	100	20	100	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Stun Spore	Grass	Status	0	75	30	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Submission	Fighting	Physical	80	80	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Substitute	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Subzero Slammer	Ice	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Sucker Punch	Dark	Physical	70	100	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Sunny Day	Fire	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sunsteel Strike	Steel	Physical	100	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Super Fang	Normal	Physical	0	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Superpower	Fighting	Physical	120	100	5	0	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N
+Supersonic	Normal	Status	0	55	20	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Supersonic Skystrike	Flying	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Surf	Water	Special	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Swagger	Normal	Status	0	85	15	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Swallow	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Sweet Kiss	Fairy	Status	0	75	10	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sweet Scent	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N
+Swift	Normal	Special	60	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Switcheroo	Dark	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Swords Dance	Normal	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N
+Synchronoise	Psychic	Special	120	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Synthesis	Grass	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Tackle	Normal	Physical	40	100	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tail Glow	Bug	Status	0	0	20	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N
+Tail Slap	Normal	Physical	25	85	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tail Whip	Normal	Status	0	100	30	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N
+Tailwind	Flying	Status	0	0	30	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Take Down	Normal	Physical	90	85	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Taunt	Dark	Status	0	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Tearful Look	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Techno Blast	Normal	Special	120	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tectonic Rage	Ground	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Teeter Dance	Normal	Status	0	100	20	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Telekinesis	Psychic	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Teleport	Psychic	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thief	Dark	Physical	60	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thousand Arrows	Ground	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thousand Waves	Ground	Physical	90	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thrash	Normal	Physical	120	100	10	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Throat Chop	Dark	Physical	80	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder	Electric	Special	110	70	10	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Fang	Electric	Physical	65	95	15	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Punch	Electric	Physical	75	100	15	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Shock	Electric	Special	40	100	30	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Wave	Electric	Status	0	90	20	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunderbolt	Electric	Special	90	100	15	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tickle	Normal	Status	0	100	20	0	N	N	N	N	N	N	N	N	Y	Y	N	N	Y	N	N	N	N	N	N
+Topsy-Turvy	Dark	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Torment	Dark	Status	0	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Toxic	Poison	Status	0	90	10	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Toxic Spikes	Poison	Status	0	0	20	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Toxic Thread	Poison	Status	0	100	20	0	Y	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Transform	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Tri Attack	Normal	Special	80	100	10	20	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trick	Psychic	Status	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trick Room	Psychic	Status	0	0	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trick-or-Treat	Ghost	Status	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Triple Kick	Fighting	Physical	10	90	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trop Kick	Grass	Physical	70	100	15	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Trump Card	Normal	Special	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Twineedle	Bug	Physical	25	100	20	20	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Twinkle Tackle	Fairy	Special	0	0	1	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Twister	Dragon	Special	40	100	20	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+U-turn	Bug	Physical	70	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Uproar	Normal	Special	90	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+V-create	Fire	Physical	180	95	5	100	N	N	N	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N
+Vacuum Wave	Fighting	Special	40	100	30	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Veevee Volley	Normal	Physical	0	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Venom Drench	Poison	Status	0	100	20	0	Y	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N
+Venoshock	Poison	Special	65	100	10	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Vice Grip	Normal	Physical	55	100	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Vine Whip	Grass	Physical	45	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Vital Throw	Fighting	Physical	70	100	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N
+Volt Switch	Electric	Special	70	100	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Volt Tackle	Electric	Physical	120	100	15	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wake-Up Slap	Fighting	Physical	70	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Gun	Water	Special	40	100	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Pledge	Water	Special	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Pulse	Water	Special	60	100	20	20	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Shuriken	Water	Special	15	100	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Sport	Water	Status	0	0	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Spout	Water	Special	150	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Waterfall	Water	Physical	80	100	15	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Weather Ball	Normal	Special	50	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Whirlpool	Water	Special	35	85	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Whirlwind	Normal	Status	0	0	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wide Guard	Rock	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N
+Wild Charge	Electric	Physical	90	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Will-O-Wisp	Fire	Status	0	85	15	100	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wing Attack	Flying	Physical	60	100	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wish	Normal	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Withdraw	Water	Status	0	0	40	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N
+Wonder Room	Psychic	Status	0	0	10	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N
+Wood Hammer	Grass	Physical	120	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Work Up	Normal	Status	0	0	30	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N
+Worry Seed	Grass	Status	0	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wrap	Normal	Physical	15	90	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wring Out	Normal	Special	0	100	5	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+X-Scissor	Bug	Physical	80	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Yawn	Normal	Status	0	0	10	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zap Cannon	Electric	Special	120	50	5	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zen Headbutt	Psychic	Physical	80	90	15	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zing Zap	Electric	Physical	80	100	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zippy Zap	Electric	Physical	50	100	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
