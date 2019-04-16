@@ -1,0 +1,724 @@
+10,000,000 Volt Thunderbolt	195	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Absorb	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Accelerock	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Acid	40	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Acid Armor	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Acid Downpour	0	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Acid Spray	40	100	N	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N
+Acrobatics	55	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Acupressure	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aerial Ace	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Aeroblast	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+After You	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Agility	0	0	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Air Cutter	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Air Slash	75	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+All-Out Pummeling	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Ally Switch	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Amnesia	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Anchor Shot	80	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Ancient Power	60	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aqua Jet	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Aqua Ring	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Aqua Tail	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Arm Thrust	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Aromatherapy	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Aromatic Mist	0	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Assist	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Assurance	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Astonish	30	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Attack Order	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Attract	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Aura Sphere	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Aurora Beam	65	10	N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N	N
+Aurora Veil	0	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Autotomize	0	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Avalanche	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Baby-Doll Eyes	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Baddy Bad	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Baneful Bunker	0	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Barrage	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Barrier	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Baton Pass	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Beak Blast	100	0	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Beat Up	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Belch	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Belly Drum	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Bestow	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bide	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bind	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bite	60	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Black Hole Eclipse	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Blast Burn	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Blaze Kick	85	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Blizzard	110	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Block	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bloom Doom	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Blue Flare	130	20	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Body Slam	85	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bolt Strike	130	20	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bone Club	65	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bone Rush	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bonemerang	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Boomburst	140	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bounce	85	30	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Bouncy Bubble	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Brave Bird	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Breakneck Blitz	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Brick Break	75	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Brine	65	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Brutal Swing	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bubble	40	10	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N
+Bubble Beam	65	10	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N
+Bug Bite	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Bug Buzz	90	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Bulk Up	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Bulldoze	60	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Bullet Punch	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Bullet Seed	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Burn Up	130	0	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Buzzy Buzz	90	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Calm Mind	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	Y	Y	N	N	N	N	N	N
+Camouflage	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Captivate	0	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Catastropika	210	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Celebrate	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Charge	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Charge Beam	50	70	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Charm	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+Chatter	65	100	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Chip Away	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Circle Throw	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Clamp	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Clanging Scales	110	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Clangorous Soulblaze	185	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Clear Smog	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Close Combat	120	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Coil	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Comet Punch	18	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Confide	0	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Confuse Ray	0	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Confusion	50	10	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Constrict	10	10	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N
+Continental Crush	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Conversion	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Conversion 2	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Copycat	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Core Enforcer	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Corkscrew Crash	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Cosmic Power	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Cotton Guard	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Cotton Spore	0	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Counter	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Covet	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Crabhammer	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Crafty Shield	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Cross Chop	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Cross Poison	70	10	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Crunch	80	20	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Crush Claw	75	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Crush Grip	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Curse	0	0	N	N	N	N	N	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N	N
+Cut	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dark Pulse	80	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dark Void	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Darkest Lariat	85	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dazzling Gleam	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Defend Order	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Defense Curl	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Defog	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N
+Destiny Bond	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Detect	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Devastating Drake	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Diamond Storm	100	50	N	N	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Dig	80	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Disable	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Disarming Voice	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Discharge	80	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dive	80	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Dizzy Punch	70	20	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Doom Desire	140	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Hit	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Iron Bash	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Kick	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Slap	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Double Team	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Double-Edge	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Draco Meteor	130	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Dragon Ascent	120	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Dragon Breath	60	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Claw	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Dance	0	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	N	N	N	N	N	N	N	N
+Dragon Hammer	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Dragon Pulse	85	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Rage	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Rush	100	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dragon Tail	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Drain Punch	75	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Draining Kiss	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Dream Eater	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Drill Peck	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Drill Run	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dual Chop	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Dynamic Punch	100	100	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Earth Power	90	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Earthquake	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Echoed Voice	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Eerie Impulse	0	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Egg Bomb	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Electric Terrain	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Electrify	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Electro Ball	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Electroweb	55	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Embargo	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ember	40	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Encore	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Endeavor	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Endure	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Energy Ball	90	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Entrainment	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Eruption	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Explosion	250	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Extrasensory	80	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Extreme Evoboost	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Extreme Speed	80	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Facade	70	0	Y	N	Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fairy Lock	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fairy Wind	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fake Out	40	100	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Fake Tears	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N
+False Swipe	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Feather Dance	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+Feint	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Feint Attack	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Fell Stinger	50	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Fiery Dance	80	50	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Final Gambit	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Blast	110	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Fang	65	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Lash	80	0	N	N	N	Y	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Fire Pledge	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Punch	75	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fire Spin	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+First Impression	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fissure	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flail	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flame Burst	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flame Charge	50	100	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Flame Wheel	60	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flamethrower	90	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flare Blitz	120	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Flash	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Flash Cannon	80	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Flatter	0	0	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Fleur Cannon	130	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Fling	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Floaty Fall	90	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Floral Healing	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Flower Shield	0	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Fly	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Flying Press	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Focus Blast	120	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Focus Energy	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Focus Punch	150	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Follow Me	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Force Palm	60	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Foresight	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N
+Forest's Curse	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Foul Play	95	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Freeze Shock	140	30	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Freeze-Dry	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Freezy Frost	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Frenzy Plant	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Frost Breath	60	100	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Frustration	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fury Attack	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fury Cutter	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fury Swipes	18	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fusion Bolt	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Fusion Flare	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Future Sight	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gastro Acid	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gear Grind	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gear Up	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Genesis Supernova	185	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Geomancy	0	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	Y	N	N	N	N	N	N	N
+Giga Drain	75	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Giga Impact	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gigavolt Havoc	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Glaciate	65	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Glare	0	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Glitzy Glow	90	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Grass Knot	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Grass Pledge	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Grass Whistle	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Grassy Terrain	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Gravity	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Growl	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+Growth	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Grudge	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Guard Split	0	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Guard Swap	0	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Guardian of Alola	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Guillotine	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gunk Shot	120	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gust	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Gyro Ball	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Hail	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hammer Arm	100	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Happy Hour	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Harden	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Haze	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Head Charge	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Head Smash	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Headbutt	70	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heal Bell	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Heal Block	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heal Order	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Heal Pulse	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Healing Wish	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Heart Stamp	60	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heart Swap	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heat Crash	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Heat Wave	95	10	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Heavy Slam	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Helping Hand	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hex	65	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hidden Power	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+High Horsepower	95	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+High Jump Kick	130	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hold Back	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hold Hands	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hone Claws	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Horn Attack	65	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Horn Drill	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Horn Leech	75	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Howl	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Hurricane	110	30	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hydro Cannon	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hydro Pump	110	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hydro Vortex	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Hyper Beam	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hyper Fang	80	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hyper Voice	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hyperspace Fury	100	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Hyperspace Hole	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Hypnosis	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Ball	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Beam	90	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Burn	140	30	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Ice Fang	65	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Hammer	100	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Ice Punch	75	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ice Shard	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Icicle Crash	85	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Icicle Spear	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Icy Wind	55	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Imprison	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Incinerate	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Inferno	100	100	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Inferno Overdrive	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Infestation	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ingrain	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Instruct	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Ion Deluge	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Iron Defense	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Iron Head	80	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Iron Tail	100	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Judgment	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Jump Kick	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Karate Chop	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Kinesis	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+King's Shield	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+Knock Off	65	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Land's Wrath	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Laser Focus	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Last Resort	140	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Lava Plume	80	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leaf Blade	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leaf Storm	130	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Leaf Tornado	65	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+Leafage	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leech Life	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Leech Seed	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Leer	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N
+Let's Snuggle Forever	190	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Lick	30	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Light of Ruin	140	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Light Screen	0	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Light That Burns the Sky	200	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	Y
+Liquidation	85	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Lock-On	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Lovely Kiss	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Low Kick	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Low Sweep	65	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Lucky Chant	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Lunar Dance	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Lunge	80	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Luster Purge	70	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Mach Punch	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Magic Coat	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Magic Room	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Magical Leaf	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Magma Storm	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Magnet Bomb	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Magnet Rise	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Magnetic Flux	0	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Magnitude	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Malicious Moonsault	180	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Mat Block	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Me First	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Mean Look	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Meditate	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Mega Drain	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Mega Kick	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mega Punch	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Megahorn	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Memento	0	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Menacing Moonraze Maelstrom	200	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Metal Burst	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Metal Claw	50	10	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Metal Sound	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	Y	N	N	N	N	N	N
+Meteor Mash	90	20	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Metronome	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Milk Drink	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Mimic	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mind Blown	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mind Reader	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Minimize	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Miracle Eye	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Mirror Coat	0	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Mirror Move	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mirror Shot	65	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+Mist	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mist Ball	70	50	N	N	N	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N	N	N	N
+Misty Terrain	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Moonblast	95	30	N	N	N	N	N	N	N	Y	N	Y	Y	N	N	N	N	N	N	N	N	N
+Moongeist Beam	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Moonlight	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Morning Sun	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Mud Bomb	65	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+Mud Shot	55	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Mud Sport	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mud-Slap	20	100	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Muddy Water	90	30	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+Multi-Attack	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Mystical Fire	75	100	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Nasty Plot	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Natural Gift	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Nature Power	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Nature's Madness	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Needle Arm	60	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Never-Ending Nightmare	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Night Daze	85	40	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+Night Shade	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Night Slash	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Nightmare	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Noble Roar	0	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Nuzzle	20	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Oblivion Wing	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Oceanic Operetta	195	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Octazooka	65	50	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N
+Odor Sleuth	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N
+Ominous Wind	60	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Origin Pulse	110	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Outrage	120	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Overheat	130	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Pain Split	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Parabolic Charge	65	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Parting Shot	0	0	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Pay Day	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Payback	50	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Peck	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Perish Song	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Petal Blizzard	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Petal Dance	120	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Phantom Force	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Photon Geyser	100	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Pika Papow	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Pin Missile	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Plasma Fists	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Play Nice	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+Play Rough	90	10	N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N	N
+Pluck	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Fang	50	50	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Gas	0	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Jab	80	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Powder	0	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Sting	15	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Poison Tail	50	10	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Pollen Puff	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	Y	N
+Pound	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Powder	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Powder Snow	40	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Power Gem	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Power Split	0	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Power Swap	0	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Power Trick	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Power Trip	20	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Power Whip	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Power-Up Punch	40	100	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Precipice Blades	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Present	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Prismatic Laser	160	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Protect	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psybeam	65	10	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psych Up	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psychic	90	10	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Psychic Fangs	85	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psychic Terrain	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psycho Boost	140	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Psycho Cut	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psycho Shift	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Psyshock	80	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Psystrike	100	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Psywave	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Pulverizing Pancake	210	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Punishment	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Purify	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N
+Pursuit	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Quash	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Quick Attack	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Quick Guard	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Quiver Dance	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	Y	Y	Y	N	N	N	N	N	N
+Rage	20	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Rage Powder	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Rain Dance	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rapid Spin	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Razor Leaf	55	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Razor Shell	75	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Razor Wind	80	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Recover	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Recycle	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Reflect	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Reflect Type	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Refresh	0	0	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Relic Song	75	10	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rest	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Retaliate	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Return	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Revelation Dance	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Revenge	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Reversal	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Roar	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Roar of Time	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Blast	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Climb	90	20	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Polish	0	0	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Rock Slide	75	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Smash	40	50	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N
+Rock Throw	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rock Tomb	60	100	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Rock Wrecker	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Role Play	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rolling Kick	60	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Rollout	30	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Roost	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Rototiller	0	0	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Round	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sacred Fire	100	50	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sacred Sword	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Safeguard	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sand Attack	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Sand Tomb	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sandstorm	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sappy Seed	90	100	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Savage Spin-Out	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Scald	80	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Scary Face	0	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Scratch	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Screech	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N
+Searing Shot	100	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Searing Sunraze Smash	200	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Secret Power	70	30	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Secret Sword	85	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Seed Bomb	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Seed Flare	120	40	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Seismic Toss	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Self-Destruct	200	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shadow Ball	80	20	N	N	N	N	N	N	N	Y	N	N	N	N	Y	Y	N	N	N	N	N	N
+Shadow Bone	85	0	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Shadow Claw	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shadow Force	120	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Shadow Punch	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Shadow Sneak	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Sharpen	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Shattered Psyche	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Sheer Cold	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shell Smash	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	Y	Y	Y	N	N	N	N	N	N
+Shell Trap	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Shift Gear	0	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	N	N	N	N	N	N	N	N
+Shock Wave	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Shore Up	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N
+Signal Beam	75	10	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Silver Wind	60	10	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Simple Beam	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sing	0	100	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sinister Arrow Raid	180	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Sizzly Slide	90	0	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sketch	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Skill Swap	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Skull Bash	130	100	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Sky Attack	140	30	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Sky Drop	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sky Uppercut	85	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Slack Off	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Slam	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Slash	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sleep Powder	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sleep Talk	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sludge	65	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sludge Bomb	90	30	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sludge Wave	95	10	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Smack Down	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Smart Strike	70	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Smelling Salts	70	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Smog	30	40	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Smokescreen	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N
+Snarl	55	100	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Snatch	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Snore	50	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Soak	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Soft-Boiled	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Solar Beam	120	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Solar Blade	125	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Sonic Boom	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Soul-Stealing 7-Star Strike	195	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Spacial Rend	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spark	65	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sparkling Aria	90	0	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N
+Sparkly Swirl	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N
+Spectral Thief	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Speed Swap	0	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Spider Web	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spike Cannon	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spikes	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spiky Shield	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spirit Shackle	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spit Up	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spite	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Splash	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Splintered Stormshards	190	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Splishy Splash	90	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spore	0	100	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Spotlight	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Stealth Rock	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Steam Eruption	110	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Steamroller	65	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Steel Wing	70	10	N	N	N	N	N	Y	N	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Sticky Web	0	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Stockpile	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Stoked Sparksurfer	175	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Stomp	65	30	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Stomping Tantrum	75	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Stone Edge	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Stored Power	20	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Storm Throw	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Strength	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Strength Sap	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	Y	N
+String Shot	0	0	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N
+Struggle	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Struggle Bug	50	100	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N	N
+Stun Spore	0	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Submission	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Substitute	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Subzero Slammer	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Sucker Punch	70	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Sunny Day	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sunsteel Strike	100	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Super Fang	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Superpower	120	0	N	N	N	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N
+Supersonic	0	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Supersonic Skystrike	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Surf	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Swagger	0	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Swallow	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Sweet Kiss	0	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Sweet Scent	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N
+Swift	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Switcheroo	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Swords Dance	0	0	N	N	N	N	N	N	Y	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Synchronoise	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Synthesis	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Tackle	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tail Glow	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Tail Slap	25	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tail Whip	0	0	N	N	N	N	N	N	N	N	Y	N	N	N	Y	N	N	N	N	N	N	N
+Tailwind	0	0	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Take Down	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Taunt	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Tearful Look	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Techno Blast	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tectonic Rage	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Teeter Dance	0	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Telekinesis	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N
+Teleport	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thief	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thousand Arrows	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thousand Waves	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thrash	120	0	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Throat Chop	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder	110	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Fang	65	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Punch	75	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Shock	40	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunder Wave	0	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Thunderbolt	90	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Tickle	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	Y	N	N	N	N	N	N	N
+Topsy-Turvy	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Torment	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Toxic	0	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Toxic Spikes	0	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Toxic Thread	0	0	Y	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N
+Transform	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Tri Attack	80	20	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trick	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trick Room	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trick-or-Treat	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Triple Kick	10	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Trop Kick	70	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N
+Trump Card	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Twineedle	25	20	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Twinkle Tackle	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y
+Twister	40	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+U-turn	70	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Uproar	90	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+V-create	180	100	N	N	N	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N
+Vacuum Wave	40	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Veevee Volley	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Venom Drench	0	0	Y	N	N	N	N	N	N	N	N	Y	Y	Y	N	N	N	N	N	N	N	N
+Venoshock	65	0	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Vice Grip	55	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Vine Whip	45	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Vital Throw	70	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	Y	N	N	N	N	N
+Volt Switch	70	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Volt Tackle	120	10	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wake-Up Slap	70	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Gun	40	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Pledge	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Pulse	60	20	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Shuriken	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Sport	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Water Spout	150	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Waterfall	80	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Weather Ball	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Whirlpool	35	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Whirlwind	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wide Guard	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N
+Wild Charge	90	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Will-O-Wisp	0	100	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wing Attack	60	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wish	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N
+Withdraw	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N
+Wonder Room	0	0	N	N	N	N	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N
+Wood Hammer	120	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Work Up	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	N	N	N	N	N	N	N	N
+Worry Seed	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wrap	15	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Wring Out	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+X-Scissor	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Yawn	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zap Cannon	120	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zen Headbutt	80	20	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zing Zap	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N
+Zippy Zap	50	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N

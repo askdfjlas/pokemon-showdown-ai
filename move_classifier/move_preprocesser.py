@@ -3,7 +3,11 @@
 # Keywords to search in the move description
 keywords = ["poison", "to sleep", "paralyze", "burn", "confuse", "raise user", "raises user",
             "lower opponent", "lowers opponent", "attack", "special attack", "speed", "defense",
-            "special defense", "evasiveness", "recover", "cure", "heal", "z-move"]
+            "special defense", "evasiveness", "recover", "cure", "heal", "restore", "z-move"]
+
+
+# Indexes to ignore (Type, Physical/Special, Accuracy, PP)
+bad_indexes = [1, 2, 4, 5]
 
 
 # Main function
@@ -14,6 +18,9 @@ def main(input_f, output_f):
     for line in input_data:
         arr = line.rstrip().split('\t')
         move_description = arr.pop(-2).lower()
+
+        for i in range(len(bad_indexes)):  # Pop bad indexes
+            arr.pop(bad_indexes[i] - i)
 
         for word in keywords:  # Each keyword is an attribute; set it to Y if it is contained in the description
             arr.append("Y" if word in move_description else "N")
@@ -29,4 +36,4 @@ def main(input_f, output_f):
 
 
 if __name__ == "__main__":
-    main("../data/moves/RAW_MOVES.tsv", "../data/moves/TRAINING_MOVES.tsv")
+    main("../data/moves/RAW_MOVES.tsv", "../data/moves/TESTING_MOVES.tsv")
