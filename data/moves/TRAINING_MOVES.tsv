@@ -17,7 +17,6 @@ Aromatherapy	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	Recovery
 Attract	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	Situational
 Aura Sphere	80	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	Pure Offensive
 Aurora Beam	65	10	N	N	N	N	N	N	N	Y	N	Y	N	N	N	N	N	N	N	N	N	N	Pure Offensive
-Baby-Doll Eyes	0	0	N	N	N	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	Pure Cripple
 Barrier	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	Defensive Setup
 Baton Pass	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Situational
 Black Hole Eclipse	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Y	Z-Move
@@ -32,12 +31,15 @@ Buzzy Buzz	90	100	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Offensive Cripple
 Calm Mind	0	0	N	N	N	N	N	N	Y	N	N	Y	Y	N	Y	Y	N	N	N	N	N	N	Offensive Setup
 Celebrate	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Situational
 Charm	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N	Pure Cripple
+Confuse Ray	0	0	N	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Pure Cripple
 Dark Void	0	0	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Pure Cripple
 Defense Curl	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	Y	N	N	N	N	N	N	N	Defensive Setup
 Destiny Bond	0	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Situational
 Discharge	80	30	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Offensive Cripple
+Minimize	0	0	N	N	N	N	N	N	Y	N	N	N	N	N	N	N	Y	N	N	N	N	N	Offensive Setup
 Dragon Dance	0	0	N	N	N	N	N	N	Y	N	N	Y	N	Y	N	N	N	N	N	N	N	N	Offensive Setup
 Growl	0	0	N	N	N	N	N	N	N	N	Y	Y	N	N	N	N	N	N	N	N	N	N	Pure Cripple
+Prismatic Laser	160	0	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Pure Offensive
 Scald	80	30	N	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Offensive Cripple
 Spore	0	100	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Pure Cripple
 Stun Spore	0	0	N	N	Y	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	N	Pure Cripple

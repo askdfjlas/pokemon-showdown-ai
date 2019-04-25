@@ -97,7 +97,7 @@ def classify(observation, tree):
         v = observation[tree.col]
         branch = None
         if isinstance(v, int) or isinstance(v, float):
-            if v >= tree.value:
+            if v > tree.value:
                 branch = tree.tb
             else:
                 branch = tree.fb
