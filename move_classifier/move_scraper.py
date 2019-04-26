@@ -1,3 +1,4 @@
+# Get a list of all moves from pokemondb
 from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
@@ -67,12 +68,7 @@ def write_output(table):
     output_file = open(OUTPUT, "w")
     rows = table.findAll("tr")
 
-    first = True
     for row in rows:
-        # Skip the first row, which has column information
-        if first:
-            first = False
-
         # Iterate through the elements, and keep a count of the index
         c = 0
         for element in row.findAll("td"):
