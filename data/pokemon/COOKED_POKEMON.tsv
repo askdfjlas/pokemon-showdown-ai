@@ -102,7 +102,7 @@ Tauros	Normal	None	75	100	95	40	70	110	Body Slam	Fire Blast	Work Up	Earthquake	0
 Magikarp	Water	None	20	10	55	15	20	80	Splash	Flail	Tackle	Bounce	36	196	76	0	0	196
 Gyarados	Water	Flying	95	125	79	60	100	81	Dragon Dance	Bounce	Waterfall	Earthquake	0	252	0	0	4	252
 Lapras	Water	Ice	130	85	80	85	95	60	Freeze-Dry	Hydro Pump	Ice Beam	Hidden Power Fire	120	0	0	252	0	136
-Ditto	Normal	None	48	48	48	48	48	48	Transform	248	8	252	0	0	0
+Ditto	Normal	None	48	48	48	48	48	48	Transform	None	None	None	248	8	252	0	0	0
 Eevee	Normal	None	55	55	50	45	65	55	Last Resort	Baton Pass	Substitute	Stored Power	212	0	0	92	0	204
 Vaporeon	Water	None	130	65	60	110	95	65	Scald	Toxic	Wish	Protect	252	0	252	0	4	0
 Jolteon	Electric	None	65	65	60	110	95	130	Thunderbolt	Volt Switch	Hidden Power Ice	Shadow Ball	0	0	0	252	4	252
