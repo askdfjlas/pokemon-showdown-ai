@@ -9,6 +9,12 @@ IGNORE_INDEXES = [0, 3]
 NAME_INDEX = 1
 TYPE_INDEX = 2
 
+# Same Pokemon, different forms to include
+# Currently doesn't deal with Alolan forms, Necrozma/Kyogre/Groudon, and other stuff
+FORMS = ["Sandy", "Trash", "Heat", "Wash", "Frost", "Fan", "Mow", "Therian",
+         "Black", "White", "Small", "Large", "Super", "Unbound", "Midnight",
+         "Dusk"]
+
 
 # Returns types listed in an element
 def parse_types(row):
@@ -23,6 +29,18 @@ def parse_types(row):
         types.append(None)
 
     return types
+
+
+# Returns the "gray" sub-text if it exists
+def parse_subtext(row):
+    if row.find("small") is not None:
+        words = row.find("small").text.split()
+
+        for form in FORMS:
+            if words[0] == form:
+                return form
+
+    return None
 
 
 # Returns table soup object where pokemon are stored
@@ -48,9 +66,16 @@ def write_output(pokedex):
                 continue
             elif c == NAME_INDEX:
                 poke = element.find("a").text
-                if poke == prev_pokemon:  # Go to next poke if this one was a form/mega
-                    break
-                prev_pokemon = poke
+                if poke == prev_pokemon:
+                    tag = parse_subtext(row)
+                    # Super inconvenient since "Dusk Mane" conflicts with Dusk Lycanroc
+                    if tag is None or poke == "Necrozma":
+                        break  # Go to next poke if this one was a form/mega
+
+                    poke += "-{}".format(tag)  # Add the tag (example: Landorus-Therian)
+                else:
+                    prev_pokemon = poke
+
                 arr.append(poke)
             elif c == TYPE_INDEX:
                 arr += parse_types(element)
