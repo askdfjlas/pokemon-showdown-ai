@@ -157,7 +157,7 @@ Espeon	Psychic	None	65	65	60	130	95	110	Calm Mind	Psychic	Shadow Ball	Morning Su
 Umbreon	Dark	None	95	65	110	60	130	65	Wish	Protect	Heal Bell	Foul Play	252	0	4	0	252	0
 Slowking	Water	Psychic	95	75	80	100	110	30	Scald	Future Sight	Fire Blast	Dragon Tail	212	0	0	252	0	44
 Misdreavus	Ghost	None	60	60	60	85	85	85	Hex	Will-O-Wisp	Taunt	Pain Split	252	0	4	0	0	252
-Unown	Psychic	None	48	72	48	72	48	48	Hidden Power Psychic	0	0	0	252	4	252
+Unown	Psychic	None	48	72	48	72	48	48	Hidden Power Psychic	None	None	None	0	0	0	252	4	252
 Wobbuffet	Psychic	None	190	33	58	33	58	33	Encore	Counter	Mirror Coat	Destiny Bond	252	0	4	0	252	0
 Girafarig	Normal	Psychic	70	80	65	90	65	85	Return	Psychic Fangs	Earthquake	Trick	0	252	4	0	0	252
 Pineco	Bug	None	50	65	90	35	35	15	Stealth Rock	Spikes	Rapid Spin	Explosion	0	236	36	0	0	236
