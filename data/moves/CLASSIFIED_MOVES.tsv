@@ -274,7 +274,7 @@ Head Smash	Pure Offensive
 Headbutt	Offensive Cripple
 Heal Bell	Situational
 Heal Block	Situational
-Heal Order	Situational
+Heal Order	Recovery
 Heal Pulse	Recovery
 Healing Wish	Situational
 Heart Stamp	Offensive Cripple
@@ -381,7 +381,7 @@ Metal Claw	Pure Offensive
 Metal Sound	Pure Cripple
 Meteor Mash	Pure Offensive
 Metronome	Situational
-Milk Drink	Situational
+Milk Drink	Recovery
 Mimic	Situational
 Mind Blown	Pure Offensive
 Mind Reader	Situational
@@ -395,8 +395,8 @@ Mist Ball	Offensive Cripple
 Misty Terrain	Situational
 Moonblast	Offensive Cripple
 Moongeist Beam	Pure Offensive
-Moonlight	Situational
-Morning Sun	Situational
+Moonlight	Recovery
+Morning Sun	Recovery
 Mud Bomb	Offensive Cripple
 Mud Shot	Offensive Cripple
 Mud Sport	Situational
@@ -488,11 +488,11 @@ Rapid Spin	Pure Offensive
 Razor Leaf	Pure Offensive
 Razor Shell	Offensive Cripple
 Razor Wind	Pure Offensive
-Recover	Situational
+Recover	Recovery
 Recycle	Recovery
 Reflect	Situational
 Reflect Type	Situational
-Refresh	Recovery
+Refresh	Pure Cripple
 Relic Song	Pure Offensive
 Rest	Situational
 Retaliate	Pure Offensive
@@ -513,7 +513,7 @@ Rock Wrecker	Pure Offensive
 Role Play	Situational
 Rolling Kick	Offensive Cripple
 Rollout	Pure Offensive
-Roost	Situational
+Roost	Recovery
 Rototiller	Situational
 Round	Pure Offensive
 Sacred Fire	Offensive Cripple
@@ -562,7 +562,7 @@ Skull Bash	Offensive Cripple
 Sky Attack	Offensive Cripple
 Sky Drop	Pure Offensive
 Sky Uppercut	Pure Offensive
-Slack Off	Situational
+Slack Off	Recovery
 Slam	Pure Offensive
 Slash	Pure Offensive
 Sleep Powder	Pure Cripple
@@ -579,7 +579,7 @@ Snarl	Offensive Cripple
 Snatch	Situational
 Snore	Offensive Cripple
 Soak	Situational
-Soft-Boiled	Situational
+Soft-Boiled	Recovery
 Solar Beam	Pure Offensive
 Solar Blade	Pure Offensive
 Sonic Boom	Situational
@@ -632,14 +632,14 @@ Supersonic	Pure Cripple
 Supersonic Skystrike	Z-Move
 Surf	Pure Offensive
 Swagger	Pure Cripple
-Swallow	Situational
+Swallow	Recovery
 Sweet Kiss	Pure Cripple
 Sweet Scent	Pure Cripple
 Swift	Pure Offensive
 Switcheroo	Situational
 Swords Dance	Offensive Setup
 Synchronoise	Pure Offensive
-Synthesis	Situational
+Synthesis	Recovery
 Tackle	Pure Offensive
 Tail Glow	Offensive Setup
 Tail Slap	Pure Offensive
@@ -708,7 +708,7 @@ Wide Guard	Situational
 Wild Charge	Pure Offensive
 Will-O-Wisp	Situational
 Wing Attack	Pure Offensive
-Wish	Situational
+Wish	Recovery
 Withdraw	Defensive Setup
 Wonder Room	Situational
 Wood Hammer	Pure Offensive

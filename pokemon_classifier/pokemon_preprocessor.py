@@ -41,8 +41,6 @@ def main(input_f, output_f, move_f):
         # Write to file
         tsv.write_row(arr + move_buckets, output_data)
 
-        print(move_buckets)
-
 
 if __name__ == "__main__":
     main("../data/pokemon/COOKED_POKEMON.tsv", "../data/pokemon/TESTING_POKEMON.tsv",

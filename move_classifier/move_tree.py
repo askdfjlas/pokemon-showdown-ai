@@ -24,7 +24,7 @@ def convert_numeric(arr):
     return entry
 
 
-# Open up the test set, classify them, and write them to the output csv
+# Open up the test set, classify them, and write them to the output tsv
 def classify_moves(tree, test_f, output_f):
     test_file = open(test_f)
     output = open(output_f, "w")
