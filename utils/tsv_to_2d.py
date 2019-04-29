@@ -11,6 +11,19 @@ def get_list(filename):
     return rows
 
 
+# Convert a .tsv file (with 2 columns) into a dictionary
+def get_dict(filename):
+    d = {}
+    data = open(filename)
+
+    for line in data:
+        arr = line.rstrip().split('\t')
+        d[arr[0]] = arr[1]
+
+    data.close()
+    return d
+
+
 # Write a row to a .tsv file
 def write_row(row, file):
     for i in range(len(row)):

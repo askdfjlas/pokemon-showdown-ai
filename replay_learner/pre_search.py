@@ -4,7 +4,7 @@ from battle_strings import *
 from pokemon import *
 
 # Suffixes to ignore, too lazy to account for power construct Zygarde forms
-NAME_FILTER = ["Mega-X", "Mega-Y", "Mega", "Ash", "Sunshine", "Rainy", "Snowy", "Sunny", "Zen"]
+NAME_FILTER = ["Mega-X", "Mega-Y", "Mega", "Alola", "Ash", "Sunshine", "Rainy", "Snowy", "Sunny", "Zen"]
 
 
 # Filter out suffixes which change throughout battle
@@ -78,7 +78,7 @@ def get_pre_battle(log):
         if "|poke|" in curr_line:
             arr = curr_line.split('|')[1:]
             new_poke = Pokemon()
-            name = arr[2].split(',')[0]
+            name = filter_name(arr[2].split(',')[0])
 
             new_poke.set_name(name)
             new_poke.set_item(True if arr[-1] == "item" else False)
