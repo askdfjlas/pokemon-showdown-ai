@@ -1,5 +1,19 @@
 # Pokemon and related entities
 from enum import Enum
+import math
+
+
+# Calculate hp value from base stat and EV
+def calc_hp(base, ev):
+    if base == 1:
+        return 1
+
+    return math.floor(2*base + 31 + math.floor(ev/4) + 100 + 10)
+
+
+# Calculate other stat value from base stat and EV (ignores nature)
+def calc_other(base, ev):
+    return math.floor(2*base + 31 + ev/4 + 5)
 
 
 # Class for an EV investment
@@ -71,6 +85,20 @@ class Pokemon:
 
         return print_str
 
+    # Populate stats and attributes using the template and EV object
+    def populate(self, t, e):
+        self.set_types([t.type1, t.type2])  # Set types
+
+        # Add moves
+        for move in t.moves:
+            self.append_move(move)
+
+        # Compute stats
+        stats = [calc_hp(t.maxHP, e.hp), calc_other(t.attack, e.attack), calc_other(t.defense, e.defense),
+                 calc_other(t.sp_attack, e.sp_attack), calc_other(t.sp_defense, e.sp_defense),
+                 calc_other(t.speed, e.speed)]
+        self.set_stats(stats)
+
     # Setters
     def set_name(self, s):
         self.name = s
@@ -84,7 +112,7 @@ class Pokemon:
 
     def set_types(self, t):
         self.type1 = t[0]
-        self.type2 = t[1] if t[1] != "None" else None
+        self.type2 = t[1] if (t[1] != "None" and t[1] is not None) else None
 
     def set_ability(self, s):
         self.ability = s

@@ -132,16 +132,14 @@ def get_during_battle(curr, lines, p1_poke, p2_poke):
 
         curr += 1
 
-    return p1_poke, p2_poke
-
 
 # Testing
 if __name__ == "__main__":
     for l in get_battle_strings():
         d = get_pre_battle(l)
-        test_pokes = get_during_battle(d[0], d[1], d[2], d[3])
+        get_during_battle(d[0], d[1], d[2], d[3])
 
-        print(test_pokes[0], test_pokes[1])
+        print(d[2], d[3])
 
         # Just one test so it doesn't take too long, break after first iteration
         break
