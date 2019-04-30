@@ -66,6 +66,7 @@ class Pokemon:
         # Game state
         self.currHP = None
         self.status = Status.Healthy
+        self.boosts = [1, 1, 1, 1, 1, 1]  # Initially, all stat multipliers are 1
         self.fainted = False
 
     # A nice print method
@@ -123,6 +124,7 @@ class Pokemon:
     def set_hp(self, i):
         if self.maxHP is None:
             self.maxHP = i
+            self.currHP = i
 
     def set_stats(self, arr):
         if self.maxHP is None:
@@ -132,3 +134,14 @@ class Pokemon:
             self.sp_attack = int(arr[3])
             self.sp_defense = int(arr[4])
             self.speed = int(arr[5])
+
+    # Game State Functions
+    def update_hp(self, i):
+        self.currHP = i
+
+        if self.currHP < 0:
+            self.fainted = True
+
+    # Reset boosts when swapped in
+    def reset_boosts(self):
+        self.boosts = [1, 1, 1, 1, 1, 1]
