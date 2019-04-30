@@ -4,7 +4,7 @@ import get_js
 
 LINK = "https://www.smogon.com/dex/sm/pokemon/"
 INPUT = "../data/pokemon/RAW_POKEMON.tsv"
-OUTPUT = "../data/pokemon/COOKED_POKEMON.tsv"  # :^)
+OUTPUT = "../data/pokemon/COOKED2_POKEMON.tsv"  # :^)
 
 EV_INDEXES = {"HP": 0, "Atk": 1, "Def": 2, "SpA": 3, "SpD": 4, "Spe": 5}  # Indexes for each EV stat
 

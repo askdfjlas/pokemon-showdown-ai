@@ -2,6 +2,17 @@
 from enum import Enum
 
 
+# Class for an EV investment
+class EV:
+    def __init__(self, arr):
+        self.hp = arr[0]
+        self.attack = arr[1]
+        self.defense = arr[2]
+        self.sp_attack = arr[3]
+        self.sp_defense = arr[4]
+        self.speed = arr[5]
+
+
 class Status(Enum):
     # Enum for status effects (ignoring confuse for now)
     Healthy = 0
@@ -11,6 +22,14 @@ class Status(Enum):
     Paralyze = 4
     Sleep = 5
     Freeze = 6
+
+
+class Move:
+    def __init__(self, arr):
+        self.name = arr[0]
+        self.type = arr[1]
+        self.category = arr[2]
+        self.bp = arr[3]
 
 
 class Pokemon:
@@ -58,8 +77,14 @@ class Pokemon:
 
     def append_move(self, move):
         # If the move hasn't been used before
-        if move not in self.moves:
+        if "Hidden Power" in move:
+            move = "Hidden Power"
+        if move not in self.moves and move != "None":
             self.moves.append(move)
+
+    def set_types(self, t):
+        self.type1 = t[0]
+        self.type2 = t[1] if t[1] != "None" else None
 
     def set_ability(self, s):
         self.ability = s
@@ -68,4 +93,14 @@ class Pokemon:
         self.item = b
 
     def set_hp(self, i):
-        self.maxHP = i
+        if self.maxHP is None:
+            self.maxHP = i
+
+    def set_stats(self, arr):
+        if self.maxHP is None:
+            self.set_hp(int(arr[0]))
+            self.attack = int(arr[1])
+            self.defense = int(arr[2])
+            self.sp_attack = int(arr[3])
+            self.sp_defense = int(arr[4])
+            self.speed = int(arr[5])
