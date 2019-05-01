@@ -147,6 +147,11 @@ class Pokemon:
             self.sp_defense = int(arr[4])
             self.speed = int(arr[5])
 
+            # Just because this mon is so damn common, assume the eviolite effect is indefinite, just for now
+            if self.name == "Chansey":
+                self.defense *= 1.5
+                self.sp_defense *= 1.5
+
     # Game State Functions
     def update_hp(self, i):
         self.currHP = i

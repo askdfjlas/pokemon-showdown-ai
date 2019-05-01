@@ -1,7 +1,9 @@
+# Simulate the entire battle through logs and create the training set!
 from pokemon import *
 from battle_strings import *
+from get_attributes import *
 import pre_search
-import tsv_to_2d
+import tsv_to_2d as tsv
 import move_tree
 
 POKE_DATA_F = "../data/pokemon/COOKED_POKEMON.tsv"
@@ -24,8 +26,8 @@ MOVE_END_RANGE = 4
 def load_pokemon():
     poke_dict = {}
 
-    poke_data_list = tsv_to_2d.get_list(POKE_DATA_F)
-    poke_classes_list = tsv_to_2d.get_list(POKE_CLASSES_F)
+    poke_data_list = tsv.get_list(POKE_DATA_F)
+    poke_classes_list = tsv.get_list(POKE_CLASSES_F)
 
     for i in range(len(poke_data_list)):
         poke = move_tree.convert_numeric(poke_data_list[i])  # Make sure attributes like EVs are ints
@@ -52,8 +54,8 @@ def load_pokemon():
 def load_moves():
     move_dict = {}
 
-    move_data_list = tsv_to_2d.get_list(MOVE_DATA_F)
-    move_classes_list = tsv_to_2d.get_list(MOVE_CLASSES_F)
+    move_data_list = tsv.get_list(MOVE_DATA_F)
+    move_classes_list = tsv.get_list(MOVE_CLASSES_F)
 
     for i in range(len(move_data_list)):
         move = move_tree.convert_numeric(move_data_list[i])  # Make sure attributes like bp are ints
@@ -158,6 +160,7 @@ def simulate(battle_string, poke_dict, move_dict):
 
         # Update turn count
         if arr[0] == "turn":
+            write_game_state(current_mon, p1_poke, p2_poke, move_dict)
             turn += 1
             print("\n------ Turn {} ------\n".format(str(turn)))
 
