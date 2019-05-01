@@ -77,7 +77,7 @@ def populate_pokes(p1_poke, p2_poke, poke_dict):
 def get_starting_mon(curr, lines):
     starting = []
 
-    while "|turn|1" not in lines[curr]:
+    while len(starting) < 2:  # While both poke have not been loaded yet
         curr_line = lines[curr]
         arr = curr_line.split('|')[1:]
 
@@ -93,7 +93,7 @@ def get_starting_mon(curr, lines):
 
 # Get P1/P2, damage dealt, and a [from] effect if possible
 def get_damage(line):
-    parity = 0 if "p1" in line.split('|')[2][:2] else 1
+    parity = pre_search.get_parity(line)
     arr = line.split('|')[1:]
     if len(arr) > 3:
         cause = arr[3][7:]
@@ -102,7 +102,42 @@ def get_damage(line):
 
     if arr[2] == "0 fnt":
         return [parity, -1, cause]
-    return [parity, int(arr[2].split('\\')[0]), cause]
+
+    # This replay format is idiotic
+    return [parity, int(arr[2].split('\\')[0]), cause, int(arr[2].split()[0].split('/')[1]) > 100]
+
+
+# Get P1/P2, amount healed, and a [from] effect if possible
+def get_heal(line):
+    parity = pre_search.get_parity(line)
+    arr = line.split('|')[1:]
+    if len(arr) > 3:
+        cause = arr[3][7:]
+    else:
+        cause = None
+
+    # This replay format is idiotic
+    return [parity, int(arr[2].split('\\')[0]), cause, int(arr[2].split()[0].split('/')[1]) > 100]
+
+
+# Get stat boosts
+def get_boost(line):
+    parity = pre_search.get_parity(line)
+    arr = line.split('|')[1:]
+    return [parity, arr[-2], arr[-1]]
+
+
+# Get statuses (burn, toxic, etc.)
+def get_status(line):
+    parity = pre_search.get_parity(line)
+    return [parity, line.split('|')[3]]
+
+
+# Cure a status
+def get_cure_status(line):
+    print(line)
+    parity = pre_search.get_parity(line)
+    return [parity, line.split('|')[2].split()[-1]]
 
 
 # Simulate the battle! Slowly append entries to the final training set
@@ -126,12 +161,14 @@ def simulate(battle_string, poke_dict, move_dict):
             turn += 1
             print("\n------ Turn {} ------\n".format(str(turn)))
 
-        # Player switches
-        if arr[0] == "switch":
+        # Player switches or gets a poke dragged in (the latter case they have no control over)
+        if arr[0] in ["switch", "drag"]:
+            parity = arr[0] == "switch"
             sdt = pre_search.get_switch(curr_line)
             poke_name = current_mon[sdt[0]]
             poke_object = [p1_poke, p2_poke][sdt[0]][poke_name]
-            print("P{} swaps {} out, and sends out {}.".format(sdt[0] + 1, poke_name, sdt[1]))
+            print("P{} {} {} out, and sends out {}.".format(sdt[0] + 1, "swaps" if parity else "drags",
+                                                            poke_name, sdt[1]))
             current_mon[sdt[0]] = sdt[1]
             poke_object.reset_boosts()  # Reset stat boosts
 
@@ -145,20 +182,75 @@ def simulate(battle_string, poke_dict, move_dict):
             ddt = get_damage(curr_line)
             poke_name = current_mon[ddt[0]]
             poke_object = [p1_poke, p2_poke][ddt[0]][poke_name]
-            new_hp = math.floor(ddt[1]/100*poke_object.maxHP)
+
+            # Calculate HP depending on format of replay
+            new_hp = ddt[1] if ddt[-1] else math.floor(ddt[1]/100*poke_object.maxHP)
             d_taken = poke_object.currHP - new_hp
 
             if ddt[1] > 0:  # If the poke is still alive
                 tp = "P{}'s {} takes {} points of damage {}and is now at {}/{} HP."
-                print(tp.format(ddt[0] + 1, current_mon[ddt[0]],
+                print(tp.format(ddt[0] + 1, poke_name,
                       d_taken, "from {} ".format(ddt[2]) if ddt[2] is not None else "",
                       new_hp, poke_object.maxHP))
             else:  # If it has fainted
                 tp = "P{}'s {} takes {} points of damage {}and has now fainted."
-                print(tp.format(ddt[0] + 1, current_mon[ddt[0]],
-                                d_taken, "from {} ".format(ddt[2]) if ddt[2] is not None else ""))
+                print(tp.format(ddt[0] + 1, poke_name,
+                      d_taken, "from {} ".format(ddt[2]) if ddt[2] is not None else ""))
 
             poke_object.update_hp(new_hp)  # Update HP
+
+        # Poke gets healed
+        if arr[0] == "-heal":
+            hdt = get_heal(curr_line)
+            poke_name = current_mon[hdt[0]]
+            poke_object = [p1_poke, p2_poke][hdt[0]][poke_name]
+
+            # Calculate HP depending on format of replay
+            new_hp = hdt[1] if hdt[-1] else math.floor(hdt[1] / 100 * poke_object.maxHP)
+            d_healed = new_hp - poke_object.currHP
+
+            tp = "P{}'s {} heals {} points of damage {}and is now at {}/{} HP."
+            print(tp.format(hdt[0] + 1, poke_name,
+                  d_healed, "from {} ".format(hdt[2]) if hdt[2] is not None else "",
+                  new_hp, poke_object.maxHP))
+
+            poke_object.update_hp(new_hp)  # Update HP
+
+        # Poke gets a stat boost
+        if arr[0] == "-boost" or arr[0] == "-unboost":
+            parity = arr[0] == "-boost"
+            bdt = get_boost(curr_line)
+            poke_name = current_mon[bdt[0]]
+            poke_object = [p1_poke, p2_poke][bdt[0]][poke_name]
+            tp = "P{}'s {}'s {} gets {} by {} stage(s)."
+            print(tp.format(bdt[0] + 1, poke_name, bdt[1],
+                            "raised" if parity else "lowered",
+                            bdt[2]))
+
+            poke_object.boost(bdt[1], int(bdt[2]) if parity else -int(bdt[2]))  # Boost stat of poke object
+
+        # Poke gets a status
+        if arr[0] == "-status":
+            sdt = get_status(curr_line)
+            poke_name = current_mon[sdt[0]]
+            poke_object = [p1_poke, p2_poke][sdt[0]][poke_name]
+            tp = "P{}'s {}'s is inflicted with {}."
+            print(tp.format(sdt[0] + 1, poke_name, sdt[1]))
+
+            poke_object.set_status(sdt[1])  # Set status
+
+        # Poke gets its status cured
+        if arr[0] == "-curestatus":
+            cdt = get_cure_status(curr_line)
+            poke_name = cdt[1]
+
+            # It's impossible to know if poke_name is a nickname for curestatus, they fixed it later I guess...
+            if poke_name in [p1_poke, p2_poke][cdt[0]]:
+                poke_object = [p1_poke, p2_poke][cdt[0]][poke_name]
+                tp = "P{}'s {} has its status cured."
+                print(tp.format(cdt[0] + 1, poke_name))
+
+                poke_object.cure_status()  # Cure status
 
         current += 1
 

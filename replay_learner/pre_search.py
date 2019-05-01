@@ -4,7 +4,7 @@ from battle_strings import *
 from pokemon import *
 
 # Suffixes to ignore, too lazy to account for power construct Zygarde forms
-NAME_FILTER = ["Mega-X", "Mega-Y", "Mega", "Alola", "Ash", "Sunshine", "Rainy", "Snowy", "Sunny", "Zen"]
+NAME_FILTER = ["Mega-X", "Mega-Y", "Mega", "Alola", "Resolute", "Ash", "Sunshine", "Rainy", "Snowy", "Sunny", "Zen"]
 
 
 # Filter out suffixes which change throughout battle
@@ -33,6 +33,11 @@ def filter_comments(lines):
             new_lines.append(line)
 
     return new_lines
+
+
+# Get parity (P1 or P2) from a commonly used format
+def get_parity(line):
+    return 0 if "p1" in line.split('|')[2][:2] else 1
 
 
 # Get P1/P2, and move or ability name

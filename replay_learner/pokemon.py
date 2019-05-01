@@ -3,6 +3,29 @@ from enum import Enum
 import math
 
 
+class Status(Enum):
+    # Enum for status effects (ignoring confuse for now)
+    Healthy = 0
+    Poison = 1
+    Toxic = 2
+    Burn = 3
+    Paralyze = 4
+    Sleep = 5
+    Freeze = 6
+
+
+# Stat boosts ranging from -6 to +6
+STAT_BOOSTS = {-6: 0.25, -5: 0.2857, -4: 0.333, -3: 0.4, -2: 0.5, -1: 0.666, 0: 1,
+               1: 1.5, 2: 2, 3: 2.5, 4: 3, 5: 3.5, 6: 4}
+
+# Which stats correspond to which numbers in the boost list, evasion gets ignored
+STAT_NUMBERS = {"atk": 0, "def": 1, "spa": 2, "spd": 3, "spe": 4}
+
+# Which status prefixes correspond to Status enums
+STATUS_PREFIXES = {"psn": Status.Poison, "tox": Status.Toxic, "brn": Status.Burn,
+                   "par": Status.Paralyze, "slp": Status.Sleep, "frz": Status.Freeze}
+
+
 # Calculate hp value from base stat and EV
 def calc_hp(base, ev):
     if base == 1:
@@ -25,17 +48,6 @@ class EV:
         self.sp_attack = arr[3]
         self.sp_defense = arr[4]
         self.speed = arr[5]
-
-
-class Status(Enum):
-    # Enum for status effects (ignoring confuse for now)
-    Healthy = 0
-    Poison = 1
-    Toxic = 2
-    Burn = 3
-    Paralyze = 4
-    Sleep = 5
-    Freeze = 6
 
 
 class Move:
@@ -66,7 +78,7 @@ class Pokemon:
         # Game state
         self.currHP = None
         self.status = Status.Healthy
-        self.boosts = [1, 1, 1, 1, 1, 1]  # Initially, all stat multipliers are 1
+        self.boosts = [0, 0, 0, 0, 0]  # Initially, all stat boost values are 0
         self.fainted = False
 
     # A nice print method
@@ -144,4 +156,18 @@ class Pokemon:
 
     # Reset boosts when swapped in
     def reset_boosts(self):
-        self.boosts = [1, 1, 1, 1, 1, 1]
+        self.boosts = [0, 0, 0, 0, 0]
+
+    # Boost a stat
+    def boost(self, stat, val):
+        if stat in STAT_NUMBERS:
+            self.boosts[STAT_NUMBERS[stat]] += val
+
+    # Set a status
+    def set_status(self, status):
+        if status in STATUS_PREFIXES:
+            self.status = STATUS_PREFIXES[status]
+
+    # Cure a status
+    def cure_status(self):
+        self.status = Status.Healthy
