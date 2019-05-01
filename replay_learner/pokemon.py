@@ -141,16 +141,17 @@ class Pokemon:
     def set_stats(self, arr):
         if self.maxHP is None:
             self.set_hp(int(arr[0]))
-            self.attack = int(arr[1])
-            self.defense = int(arr[2])
-            self.sp_attack = int(arr[3])
-            self.sp_defense = int(arr[4])
-            self.speed = int(arr[5])
 
-            # Just because this mon is so damn common, assume the eviolite effect is indefinite, just for now
-            if self.name == "Chansey":
-                self.defense *= 1.5
-                self.sp_defense *= 1.5
+        self.attack = int(arr[1])
+        self.defense = int(arr[2])
+        self.sp_attack = int(arr[3])
+        self.sp_defense = int(arr[4])
+        self.speed = int(arr[5])
+
+        # Just because this mon is so damn common, assume the eviolite effect is indefinite, just for now
+        if self.name == "Chansey":
+            self.defense *= 1.5
+            self.sp_defense *= 1.5
 
     # Game State Functions
     def update_hp(self, i):
