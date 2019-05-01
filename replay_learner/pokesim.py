@@ -152,7 +152,10 @@ def simulate(battle_string, poke_dict, move_dict):
     current, current_mon = get_starting_mon(current, lines)  # Get pokes that the players first send out
     print("P1 sends out {}!\nP2 sends out {}!".format(current_mon[0], current_mon[1]))
 
+    old_pokes = [current_mon[0], current_mon[1]]  # Save old pokes to use when writing game state
     forced_swaps = [False, False]  # Forced swaps occur when a user must decide their next Poke to send out
+    non_forced = [None, None]  # Decisions which aren't forced swaps
+    forced_decisions = [None, None]  # Decisions which are forced swaps
     # Iterate until end of battle
     while len(lines[current]) != 5 and lines[current][:5] != "|win|":
         curr_line = lines[current]
@@ -160,10 +163,16 @@ def simulate(battle_string, poke_dict, move_dict):
 
         # Update turn count
         if arr[0] == "turn":
+            # Write rows before the new turn
+            if turn > 0:
+                write_game_state(old_pokes, p1_poke, p2_poke, move_dict, poke_dict, non_forced, forced_decisions)
+
+            old_pokes = [current_mon[0], current_mon[1]]  # Update old pokes
             forced_swaps = [False, False]  # Reset force swaps
+            non_forced = [None, None]  # Reset move decisions
+            forced_decisions = [None, None]
             turn += 1
             print("\n------ Turn {} ------\n".format(str(turn)))
-            write_game_state(current_mon, p1_poke, p2_poke, move_dict)
 
         # Player switches or gets a poke dragged in (the latter case they have no control over)
         if arr[0] in ["switch", "drag"]:
@@ -173,6 +182,9 @@ def simulate(battle_string, poke_dict, move_dict):
             poke_object = [p1_poke, p2_poke][sdt[0]][poke_name]
             if forced_swaps[sdt[0]]:
                 print("Forced swap: ", end="")
+                forced_decisions[sdt[0]] = sdt[1]
+            else:
+                non_forced[sdt[0]] = sdt[1]
             print("P{} {} {} out, and sends out {}.".format(sdt[0] + 1, "swaps" if parity else "drags",
                                                             poke_name, sdt[1]))
             current_mon[sdt[0]] = sdt[1]
@@ -186,6 +198,8 @@ def simulate(battle_string, poke_dict, move_dict):
             # U-turn and Volt Switch are the only 2 moves in the game which create forced swaps
             if mdt[1] in ["U-turn", "Volt Switch"]:
                 forced_swaps[mdt[0]] = True
+
+            non_forced[mdt[0]] = mdt[1]
 
         # Poke takes damage
         if arr[0] == "-damage":

@@ -26,6 +26,9 @@ TYPE_EFFECT = [[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.5, 0, 1, 1, 0.5, 1],
                [1, 0.5, 0.5, 0.5, 1, 2, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 0.5, 2],
                [1, 0.5, 1, 1, 1, 1, 2, 0.5, 1, 1, 1, 1, 1, 1, 2, 2, 0.5, 1]]
 
+# Numbers marked to decision (class label) names
+DECISIONS = ["MDM", "MDM2", "SDP", "SRP", "SHP"]
+
 
 # Damage calculator, poke1 = attacking poke, poke2 = defending
 # Slightly inaccurate by a few points due to the ceiling and lack of integer truncation, although that doesn't matter
@@ -133,10 +136,25 @@ def find_sdp(poke1, p2_poke, mdm, move_dict):
     return sdp
 
 
+# Get the class label, or the user's decision
+def get_class_label(move, decisions, move_dict, poke_dict):
+    if move is None:
+        return None
+    for i in range(len(decisions)):
+        if move == decisions[i]:
+            return DECISIONS[i]  # Return one of the 5 possible decisions
+    if move in move_dict:
+        category = move_dict[move][-1]  # Write the class of the move
+        return category if category != "Pure Offensive" else "MDM"  # If pure offensive, then AI might as well use MDM
+    return poke_dict[move][-1]  # Move is a swap into a poke, write the class of this poke
+
+
 # Main function to manage game state, find "decisions" like MDM for P1
-def write_game_state(current_mon, p1_poke, p2_poke, move_dict):
+def write_game_state(current_mon, p1_poke, p2_poke, move_dict, poke_dict, non_forced, forced):
     poke1 = p1_poke[current_mon[0]]
     poke2 = p2_poke[current_mon[1]]
+
+    print(current_mon)
 
     # MDM (Most Damaging Move)
     mdm_1 = find_mdm(poke1, poke2, move_dict)
@@ -159,3 +177,11 @@ def write_game_state(current_mon, p1_poke, p2_poke, move_dict):
     print("shp 1 and 2: {} {}".format(shp_1, shp_2))
     print("mdm 2 1 and 2: {} {}".format(mdm2_1, mdm2_2))
     print("sdp 1 and 2: {} {}".format(sdp_1, sdp_2))
+
+    # Find class labels and write a row
+    decisions_1 = [mdm_1, mdm2_1, sdp_1, srp_1, shp_1]
+    decisions_2 = [mdm_2, mdm2_2, sdp_2, srp_2, shp_2]
+    print(get_class_label(non_forced[0], decisions_1, move_dict, poke_dict), end=" ")
+    print(get_class_label(forced[0], decisions_1, move_dict, poke_dict))
+    print(get_class_label(non_forced[1], decisions_2, move_dict, poke_dict), end=" ")
+    print(get_class_label(forced[1], decisions_1, move_dict, poke_dict))
