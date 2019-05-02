@@ -117,6 +117,8 @@ class Pokemon:
         self.name = s
 
     def append_move(self, move):
+        if move[:2] == "Z-":
+            return
         # If the move hasn't been used before
         if "Hidden Power" in move:
             move = "Hidden Power"

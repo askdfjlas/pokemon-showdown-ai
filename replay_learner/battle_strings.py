@@ -3,7 +3,7 @@
 from bs4 import BeautifulSoup as soup
 
 SUFFIX = "../data/replays/Gen7OU-"
-NUM_REPLAYS = 50
+NUM_REPLAYS = 100
 
 
 def get_battle_strings():

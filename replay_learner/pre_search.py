@@ -4,7 +4,8 @@ from battle_strings import *
 from pokemon import *
 
 # Suffixes to ignore, too lazy to account for power construct Zygarde forms
-NAME_FILTER = ["Mega-X", "Mega-Y", "Mega", "Alola", "Resolute", "Ash", "Sunshine", "Rainy", "Snowy", "Sunny", "Zen"]
+NAME_FILTER = ["Mega-X", "Mega-Y", "Mega", "Alola", "Resolute", "Unbound", "Ash",
+               "Sunshine", "Rainy", "Snowy", "Sunny", "Zen"]
 
 
 # Filter out suffixes which change throughout battle
