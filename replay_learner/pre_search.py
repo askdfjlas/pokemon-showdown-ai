@@ -55,7 +55,7 @@ def get_switch(line):
     hp = int(line.split('/')[-1].split(' ')[0])
 
     # Later showdown replays write percentages for hp, it's so stupid
-    # So I don't have to fucking look at the date of the replay, assume if hp = 100, then it's invalid
+    # Assume if hp = 100, then it's invalid
     # This is a decent assumption since any high elo person would use lvl. 100 mon and all mon have well above
     # 100 hp except for Shedinja which has 1
     if hp == 100:

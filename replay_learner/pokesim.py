@@ -2,8 +2,8 @@
 from battle_strings import *
 from get_attributes import *
 import pre_search
-import tsv_to_2d as tsv
 import move_tree
+import copy
 
 POKE_DATA_F = "../data/pokemon/COOKED_POKEMON.tsv"
 POKE_CLASSES_F = "../data/pokemon/CLASSIFIED_POKEMON.tsv"
@@ -104,7 +104,7 @@ def get_damage(line):
     if arr[2] == "0 fnt":
         return [parity, -1, cause]
 
-    # This replay format is idiotic
+    # This replay format...
     return [parity, int(arr[2].split('\\')[0]), cause, int(arr[2].split()[0].split('/')[1]) > 100]
 
 
@@ -117,7 +117,7 @@ def get_heal(line):
     else:
         cause = None
 
-    # This replay format is idiotic
+    # This replay format...
     return [parity, int(arr[2].split('\\')[0]), cause, int(arr[2].split()[0].split('/')[1]) > 100]
 
 
@@ -153,6 +153,8 @@ def simulate(battle_string, poke_dict, move_dict):
     print("P1 sends out {}!\nP2 sends out {}!".format(current_mon[0], current_mon[1]))
 
     old_pokes = [current_mon[0], current_mon[1]]  # Save old pokes to use when writing game state
+    old_p1_poke = {}
+    old_p2_poke = {}
     forced_swaps = [False, False]  # Forced swaps occur when a user must decide their next Poke to send out
     non_forced = [None, None]  # Decisions which aren't forced swaps
     forced_decisions = [None, None]  # Decisions which are forced swaps
@@ -165,9 +167,11 @@ def simulate(battle_string, poke_dict, move_dict):
         if arr[0] == "turn":
             # Write rows before the new turn
             if turn > 0:
-                write_game_state(old_pokes, p1_poke, p2_poke, move_dict, poke_dict, non_forced, forced_decisions)
+                write_game_state(old_pokes, old_p1_poke, old_p2_poke, move_dict, poke_dict, non_forced, forced_decisions)
 
             old_pokes = [current_mon[0], current_mon[1]]  # Update old pokes
+            old_p1_poke = copy.deepcopy(p1_poke)  # Update old poke lists
+            old_p2_poke = copy.deepcopy(p2_poke)
             forced_swaps = [False, False]  # Reset force swaps
             non_forced = [None, None]  # Reset move decisions
             forced_decisions = [None, None]
@@ -294,7 +298,7 @@ def main():
 
     for battle_string in get_battle_strings():
         simulate(battle_string, poke_dict, move_dict)
-        break
+    output.close()
 
 
 if __name__ == "__main__":
