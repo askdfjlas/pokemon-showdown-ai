@@ -296,11 +296,8 @@ def main():
     poke_dict = load_pokemon()
     move_dict = load_moves()
 
-    count = 1
     for battle_string in get_battle_strings():
-        print(count)
         simulate(battle_string, poke_dict, move_dict)
-        count += 1
 
     output.close()
 

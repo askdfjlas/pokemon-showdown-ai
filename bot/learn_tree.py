@@ -9,10 +9,11 @@ TRAINING_SET = "../data/learning/TRAINING_SET.tsv"
 # Attribute labels
 labels = ["cpc", "cph", "cps", "cpb_atk", "cpb_def", "cpb_spa", "cpb_spd", "cpb_spe",
           "opc", "oph", "ops", "opb_atk", "opb_def", "opb_spa", "opb_spd", "opb_spe",
-          "b_sdp", "b_srp", "b_shp", "b_phys_wall", "b_spe_wall", "b_phys_attack",
-          "b_spe_attack", "b_phys_sweep", "b_spe_sweep", "b_mdm", "b_mdm2", "b_pure_cripple",
-          "b_offensive_cripple", "b_offensive_setup", "b_defensive_setup", "b_recovery", "b_z",
-          "b_situational", "b_pure_offense", "forced swap", "remaining poke", "faster",
+          #"b_sdp", "b_srp", "b_shp", "b_phys_wall", "b_spe_wall", "b_phys_attack",
+          #"b_spe_attack", "b_phys_sweep", "b_spe_sweep", "b_mdm", "b_mdm2", "b_pure_cripple",
+          #"b_offensive_cripple", "b_offensive_setup", "b_defensive_setup", "b_recovery", "b_z",
+          #"b_situational", "b_pure_offense",
+          "forced swap", "remaining poke", "faster",
           "mdm_dmg", "mdm_hp", "mdm2_dmg", "mdm2_hp", "mdm_dmg_srp", "mdm_hp_srp",
           "mdm2_dmg_srp", "mdm2_hp_srp", "o_mdm_dmg", "o_mdm_hp", "o_mdm2_dmg", "o_mdm2_hp",
           "o_mdm_dmg_srp", "o_mdm_hp_srp", "o_mdm2_dmg_srp", "o_mdm2_hp_srp"]
@@ -25,7 +26,7 @@ def main(json_f):
         # Convert to numeric, then pop the Pokemon name
         rows[i] = move_tree.convert_numeric(rows[i])
 
-    tree = dtree_build.buildtree(rows, min_samples=30, min_gain=0)
+    tree = dtree_build.buildtree_h(rows, len(rows[0]) - 2, 0, min_samples=20, min_gain=0.01)
     json_tree = dtree_to_jsontree(tree, labels)
 
     # create json data for d3.js interactive visualization

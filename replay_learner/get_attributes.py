@@ -36,6 +36,8 @@ MOVE_TYPES = {"Pure Cripple": 0, "Offensive Cripple": 1, "Offensive Setup": 2, "
               "Recovery": 4, "Z-Move": 5, "Situational": 6, "Pure Offensive": 7}
 SWAP_TYPES = {"Physical Wall": 0, "Special Wall": 1, "Physical Attacker": 2, "Special Attacker": 3,
               "Physical Sweeper": 4, "Special Sweeper": 5}
+SWAP_CLASSES = {"SDP", "SRP", "SHP", "Physical Wall", "Special Wall", "Physical Attacker",
+                "Special Attacker", "Physical Sweeper", "Special Sweeper"}
 
 
 # Damage calculator, poke1 = attacking poke, poke2 = defending
@@ -208,12 +210,14 @@ def discretize(num):
         return 0
     if num < 5:
         return 2
+    if num > 100:
+        return 100
     return int(num/5)*5
 
 
 # Write the entire row, requires lots of attributes
 def write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label, forced):
-    if label is None:  # No decision in this category is made
+    if label is None or label == "Situational":  # No decision in this category is made or it is situational
         return
     # Current and opposing mon stats
     cpc = poke_dict[poke1.name][-1]  # Class
@@ -227,8 +231,8 @@ def write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_
     oboosts = poke2.boosts
 
     # Binary attributes for available options, swap and moves
-    binary_moves = get_binary_moves(poke1, decisions_1, move_dict)
-    binary_swaps = get_binary_swaps(poke1, p1_poke, decisions_1, poke_dict)
+    #binary_moves = get_binary_moves(poke1, decisions_1, move_dict)
+    #binary_swaps = get_binary_swaps(poke1, p1_poke, decisions_1, poke_dict)
 
     # Damage calc numeric attributes, extremely ugly
     # Damage and HP% to opposing after MDM and MDM2
@@ -263,19 +267,22 @@ def write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_
 
     remain = get_number_remaining(p1_poke)  # Number of remaining poke
     forced_swap = convert_bool(forced)  # Whether swap is forced
-    faster = convert_bool(poke1.speed > poke2.speed)  # Is my poke faster?
+    poke1_speed = STAT_BOOSTS[poke1.boosts[STAT_NUMBERS["spd"]]]*poke1.speed
+    poke2_speed = STAT_BOOSTS[poke2.boosts[STAT_NUMBERS["spd"]]]*poke2.speed
+    faster = convert_bool(poke1_speed > poke2_speed)  # Is my poke faster?
+    sub_label = "Swap" if label in SWAP_CLASSES else "Attack"
 
     # Make the final list!!!
+    # [convert_bool(b) for b in binary_swaps] + [convert_bool(b) for b in binary_moves] + \
     final_list = \
         [cpc, chp, cstatus] + cboosts + \
         [opc, ohp, ostatus] + oboosts + \
-        [convert_bool(b) for b in binary_swaps] + [convert_bool(b) for b in binary_moves] + \
         [forced_swap, remain, faster] + \
         [discretize(i) for i in [mdm_dmg, mdm_hp, mdm2_dmg, mdm2_hp] +  # Discretize all the damage calculations
             [mdm_dmg_srp, mdm_hp_srp, mdm2_dmg_srp, mdm2_hp_srp] +
             [o_mdm_dmg, o_mdm_hp, o_mdm2_dmg, o_mdm2_hp] +
             [o_mdm_dmg_srp, o_mdm_hp_srp, o_mdm2_dmg_srp, o_mdm2_hp_srp]] + \
-        [label]  # !!!
+        [sub_label, label]  # !!!
 
     tsv.write_row(final_list, output)  # Write rows to file!
 
