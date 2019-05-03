@@ -1,0 +1,56 @@
+Chansey (F) @ Eviolite
+Ability: Natural Cure
+EVs: 248 HP / 252 Def / 8 SpD
+Bold Nature
+- Seismic Toss
+- Toxic
+- Stealth Rock
+- Soft-Boiled
+
+Toxapex @ Black Sludge
+Ability: Regenerator
+EVs: 252 HP / 252 Def / 4 SpD
+Bold Nature
+IVs: 0 Atk
+- Scald
+- Haze
+- Recover
+- Toxic
+
+Greninja @ Leftovers
+Ability: Protean
+EVs: 4 Atk / 252 SpA / 252 Spe
+Hasty Nature
+- Hydro Pump
+- Gunk Shot
+- Ice Beam
+- Spikes
+
+Landorus-Therian (M) @ Leftovers
+Ability: Intimidate
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Earthquake
+- U-turn
+- Stone Edge
+- Defog
+
+Tapu Koko @ Leftovers
+Ability: Electric Surge
+EVs: 252 HP / 4 SpA / 252 Spe
+Timid Nature
+- Thunderbolt
+- Defog
+- Roost
+- U-turn
+
+Zapdos @ Leftovers
+Ability: Static
+EVs: 252 HP / 252 SpA / 4 SpD
+Modest Nature
+IVs: 0 Atk
+- Discharge
+- Roost
+- Heat Wave
+- Defog
+

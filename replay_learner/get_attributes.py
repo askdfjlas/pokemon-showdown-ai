@@ -3,7 +3,6 @@ from pokemon import *
 import tsv_to_2d as tsv
 
 OUTPUT_F = "../data/learning/TRAINING_SET.tsv"
-output = open(OUTPUT_F, "w")
 
 # Move/Pokemon Types
 TYPES = {"Normal": 0, "Fire": 1, "Water": 2, "Electric": 3, "Grass": 4, "Ice": 5, "Fighting": 6,
@@ -216,7 +215,7 @@ def discretize(num):
 
 
 # Write the entire row, requires lots of attributes
-def write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label, forced):
+def write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label, forced, output):
     if label is None or label == "Situational":  # No decision in this category is made or it is situational
         return
     # Current and opposing mon stats
@@ -288,7 +287,7 @@ def write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_
 
 
 # Main function to manage game state, find "decisions" like MDM for P1
-def write_game_state(current_mon, p1_poke, p2_poke, move_dict, poke_dict, non_forced, forced):
+def write_game_state(current_mon, p1_poke, p2_poke, move_dict, poke_dict, non_forced, forced, output):
     poke1 = p1_poke[current_mon[0]]
     poke2 = p2_poke[current_mon[1]]
 
@@ -317,7 +316,7 @@ def write_game_state(current_mon, p1_poke, p2_poke, move_dict, poke_dict, non_fo
     label_2_f = get_class_label(forced[1], decisions_1, move_dict, poke_dict)
 
     # Finally, write states
-    write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label_1, False)
-    write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label_1_f, True)
-    write_state(poke2, poke1, p2_poke, p1_poke, move_dict, poke_dict, decisions_2, decisions_1, label_2, False)
-    write_state(poke2, poke1, p2_poke, p1_poke, move_dict, poke_dict, decisions_2, decisions_1, label_2_f, True)
+    write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label_1, False, output)
+    write_state(poke1, poke2, p1_poke, p2_poke, move_dict, poke_dict, decisions_1, decisions_2, label_1_f, True, output)
+    write_state(poke2, poke1, p2_poke, p1_poke, move_dict, poke_dict, decisions_2, decisions_1, label_2, False, output)
+    write_state(poke2, poke1, p2_poke, p1_poke, move_dict, poke_dict, decisions_2, decisions_1, label_2_f, True, output)

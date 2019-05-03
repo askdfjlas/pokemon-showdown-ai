@@ -51,6 +51,7 @@ def get_move_ability(line):
 
 # Get P1/P2, Pokemon name, and max HP (if it is provided) from switch statement
 def get_switch(line):
+    print(line)
     parity = 0 if "p1" in line.split('|')[2][:2] else 1
     name = filter_name(line.split('|')[3].split(',')[0])
     hp = int(line.split('/')[-1].split(' ')[0])
@@ -79,7 +80,7 @@ def get_pre_battle(log):
     p2_poke = {}
 
     curr = 0
-    while lines[curr] != "|start":
+    while curr < len(lines) and lines[curr] != "|start":
         curr_line = lines[curr]
         if "|poke|" in curr_line:
             arr = curr_line.split('|')[1:]

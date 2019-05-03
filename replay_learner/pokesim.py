@@ -142,7 +142,7 @@ def get_cure_status(line):
 
 
 # Simulate the battle! Slowly append entries to the final training set
-def simulate(battle_string, poke_dict, move_dict):
+def simulate(battle_string, poke_dict, move_dict, output):
     current, lines, p1_poke, p2_poke = pre_search.get_pre_battle(battle_string)  # Get pre-battle info
     pre_search.get_during_battle(current, lines, p1_poke, p2_poke)  # Populate with known info during the battle
     populate_pokes(p1_poke, p2_poke, poke_dict)  # Compute unknown stats from Smogon EVs
@@ -167,7 +167,8 @@ def simulate(battle_string, poke_dict, move_dict):
         if arr[0] == "turn":
             # Write rows before the new turn
             if turn > 0:
-                write_game_state(old_pokes, old_p1_poke, old_p2_poke, move_dict, poke_dict, non_forced, forced_decisions)
+                write_game_state(old_pokes, old_p1_poke, old_p2_poke, move_dict, poke_dict, non_forced,
+                                 forced_decisions, output)
 
             old_pokes = [current_mon[0], current_mon[1]]  # Update old pokes
             old_p1_poke = copy.deepcopy(p1_poke)  # Update old poke lists
@@ -293,11 +294,13 @@ def simulate(battle_string, poke_dict, move_dict):
 
 # Main function
 def main():
+    output = open(OUTPUT_F, "w")
+
     poke_dict = load_pokemon()
     move_dict = load_moves()
 
     for battle_string in get_battle_strings():
-        simulate(battle_string, poke_dict, move_dict)
+        simulate(battle_string, poke_dict, move_dict, output)
 
     output.close()
 

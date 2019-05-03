@@ -21,6 +21,7 @@ labels = ["cpc", "cph", "cps", "cpb_atk", "cpb_def", "cpb_spa", "cpb_spd", "cpb_
 
 # Open up training set, create decision tree
 def main(json_f):
+    print(TRAINING_SET)
     rows = tsv.get_list(TRAINING_SET)
     for i in range(len(rows)):
         # Convert to numeric, then pop the Pokemon name
